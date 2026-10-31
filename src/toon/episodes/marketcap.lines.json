@@ -1,0 +1,18 @@
+{"engine": "edge", "voice": "en-US-GuyNeural", "rate": "-5%", "pitch": "-2Hz", "lead": 0.45, "tail": 1.5,
+ "lines": [
+  {"say": "What is Market Capitalization?", "gap": 0.5},
+  {"say": "Market cap equals share price times total shares.", "gap": 0.4},
+  {"say": "For example, fifty dollars times ten million shares.", "gap": 0.3},
+  {"say": "Equals five hundred million dollars.", "gap": 0.6},
+  {"say": "Companies are classified by size.", "gap": 0.4},
+  {"say": "Small cap is under two billion.", "gap": 0.3},
+  {"say": "Mid cap is two to ten billion.", "gap": 0.3},
+  {"say": "Large cap is over ten billion.", "gap": 0.6},
+  {"say": "Apple is a large cap at two point eight trillion.", "gap": 0.4},
+  {"say": "Tesla is large cap at eight hundred billion.", "gap": 0.4},
+  {"say": "Roku is mid cap at eight billion.", "gap": 0.4},
+  {"say": "Beyond Meat is small cap at one billion.", "gap": 0.6},
+  {"say": "Diversify across all cap sizes.", "gap": 0.4},
+  {"say": "That is market capitalization.", "gap": 0}
+ ]
+}

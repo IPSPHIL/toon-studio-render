@@ -1,0 +1,470 @@
+{
+ "voice": "own",
+ "total": 43.36,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In a city of millions, one hero rises.",
+   "start": 0.0,
+   "end": 3.62,
+   "words": [
+    {
+     "w": "In",
+     "t": 0.0
+    },
+    {
+     "w": "a",
+     "t": 0.46
+    },
+    {
+     "w": "city",
+     "t": 0.58
+    },
+    {
+     "w": "of",
+     "t": 0.8
+    },
+    {
+     "w": "millions,",
+     "t": 1.0
+    },
+    {
+     "w": "one",
+     "t": 2.28
+    },
+    {
+     "w": "hero",
+     "t": 2.64
+    },
+    {
+     "w": "rises.",
+     "t": 3.02
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "His name… is Nova.",
+   "start": 4.44,
+   "end": 5.42,
+   "words": [
+    {
+     "w": "His",
+     "t": 4.44
+    },
+    {
+     "w": "name…",
+     "t": 4.58
+    },
+    {
+     "w": "is",
+     "t": 4.88
+    },
+    {
+     "w": "Nova.",
+     "t": 5.1
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "He can control light itself.",
+   "start": 6.28,
+   "end": 8.0,
+   "words": [
+    {
+     "w": "He",
+     "t": 6.28
+    },
+    {
+     "w": "can",
+     "t": 6.44
+    },
+    {
+     "w": "control",
+     "t": 6.64
+    },
+    {
+     "w": "light",
+     "t": 7.14
+    },
+    {
+     "w": "itself.",
+     "t": 7.46
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Every photon bends to his will.",
+   "start": 9.06,
+   "end": 11.0,
+   "words": [
+    {
+     "w": "Every",
+     "t": 9.06
+    },
+    {
+     "w": "photon",
+     "t": 9.36
+    },
+    {
+     "w": "bends",
+     "t": 9.78
+    },
+    {
+     "w": "to",
+     "t": 10.18
+    },
+    {
+     "w": "his",
+     "t": 10.48
+    },
+    {
+     "w": "will.",
+     "t": 10.64
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But tonight, the city faces darkness.",
+   "start": 11.66,
+   "end": 14.42,
+   "words": [
+    {
+     "w": "But",
+     "t": 11.66
+    },
+    {
+     "w": "tonight,",
+     "t": 11.8
+    },
+    {
+     "w": "the",
+     "t": 12.94
+    },
+    {
+     "w": "city",
+     "t": 13.08
+    },
+    {
+     "w": "faces",
+     "t": 13.36
+    },
+    {
+     "w": "darkness.",
+     "t": 13.92
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "A villain known as Shadow Prime.",
+   "start": 15.32,
+   "end": 17.16,
+   "words": [
+    {
+     "w": "A",
+     "t": 15.32
+    },
+    {
+     "w": "villain",
+     "t": 15.52
+    },
+    {
+     "w": "known",
+     "t": 15.76
+    },
+    {
+     "w": "as",
+     "t": 16.16
+    },
+    {
+     "w": "Shadow",
+     "t": 16.4
+    },
+    {
+     "w": "Prime.",
+     "t": 16.74
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "He wants to plunge the world into eternal night.",
+   "start": 17.9,
+   "end": 20.7,
+   "words": [
+    {
+     "w": "He",
+     "t": 17.9
+    },
+    {
+     "w": "wants",
+     "t": 18.06
+    },
+    {
+     "w": "to",
+     "t": 18.28
+    },
+    {
+     "w": "plunge",
+     "t": 18.52
+    },
+    {
+     "w": "the",
+     "t": 18.84
+    },
+    {
+     "w": "world",
+     "t": 19.04
+    },
+    {
+     "w": "into",
+     "t": 19.4
+    },
+    {
+     "w": "eternal",
+     "t": 19.72
+    },
+    {
+     "w": "night.",
+     "t": 20.22
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Nova stands on the rooftop.",
+   "start": 21.5,
+   "end": 23.24,
+   "words": [
+    {
+     "w": "Nova",
+     "t": 21.5
+    },
+    {
+     "w": "stands",
+     "t": 21.94
+    },
+    {
+     "w": "on",
+     "t": 22.34
+    },
+    {
+     "w": "the",
+     "t": 22.68
+    },
+    {
+     "w": "rooftop.",
+     "t": 22.82
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Light versus darkness.",
+   "start": 23.86,
+   "end": 25.34,
+   "words": [
+    {
+     "w": "Light",
+     "t": 23.86
+    },
+    {
+     "w": "versus",
+     "t": 24.32
+    },
+    {
+     "w": "darkness.",
+     "t": 24.72
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "The battle begins.",
+   "start": 25.34,
+   "end": 27.26,
+   "words": [
+    {
+     "w": "The",
+     "t": 25.34
+    },
+    {
+     "w": "battle",
+     "t": 26.3
+    },
+    {
+     "w": "begins.",
+     "t": 26.6
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "Nova unleashes his power.",
+   "start": 28.12,
+   "end": 29.84,
+   "words": [
+    {
+     "w": "Nova",
+     "t": 28.12
+    },
+    {
+     "w": "unleashes",
+     "t": 28.38
+    },
+    {
+     "w": "his",
+     "t": 29.18
+    },
+    {
+     "w": "power.",
+     "t": 29.42
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "A beam of pure light cuts through the shadows.",
+   "start": 30.6,
+   "end": 33.18,
+   "words": [
+    {
+     "w": "A",
+     "t": 30.6
+    },
+    {
+     "w": "beam",
+     "t": 30.7
+    },
+    {
+     "w": "of",
+     "t": 30.98
+    },
+    {
+     "w": "pure",
+     "t": 31.16
+    },
+    {
+     "w": "light",
+     "t": 31.48
+    },
+    {
+     "w": "cuts",
+     "t": 31.86
+    },
+    {
+     "w": "through",
+     "t": 32.3
+    },
+    {
+     "w": "the",
+     "t": 32.66
+    },
+    {
+     "w": "shadows.",
+     "t": 32.82
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Shadow Prime is defeated.",
+   "start": 34.04,
+   "end": 35.68,
+   "words": [
+    {
+     "w": "Shadow",
+     "t": 34.04
+    },
+    {
+     "w": "Prime",
+     "t": 34.44
+    },
+    {
+     "w": "is",
+     "t": 34.9
+    },
+    {
+     "w": "defeated.",
+     "t": 35.22
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "The city is saved.",
+   "start": 36.58,
+   "end": 37.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 36.58
+    },
+    {
+     "w": "city",
+     "t": 36.66
+    },
+    {
+     "w": "is",
+     "t": 36.98
+    },
+    {
+     "w": "saved.",
+     "t": 37.24
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "Nova disappears into the dawn.",
+   "start": 38.42,
+   "end": 40.36,
+   "words": [
+    {
+     "w": "Nova",
+     "t": 38.42
+    },
+    {
+     "w": "disappears",
+     "t": 38.84
+    },
+    {
+     "w": "into",
+     "t": 39.36
+    },
+    {
+     "w": "the",
+     "t": 39.82
+    },
+    {
+     "w": "dawn.",
+     "t": 40.0
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "Until next time.",
+   "start": 41.04,
+   "end": 42.16,
+   "words": [
+    {
+     "w": "Until",
+     "t": 41.04
+    },
+    {
+     "w": "next",
+     "t": 41.32
+    },
+    {
+     "w": "time.",
+     "t": 41.74
+    }
+   ]
+  }
+ ]
+}

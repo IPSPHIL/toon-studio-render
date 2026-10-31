@@ -1,0 +1,20 @@
+{"engine": "edge", "voice": "en-US-GuyNeural", "rate": "-5%", "pitch": "-2Hz", "lead": 0.45, "tail": 1.5,
+ "lines": [
+  {"say": "In a city of millions, one hero rises.", "gap": 0.5},
+  {"say": "His name is Nova.", "sub": "His name… is Nova.", "gap": 0.5},
+  {"say": "He can control light itself.", "gap": 0.4},
+  {"say": "Every photon bends to his will.", "gap": 0.6},
+  {"say": "But tonight, the city faces darkness.", "gap": 0.4},
+  {"say": "A villain known as Shadow Prime.", "gap": 0.5},
+  {"say": "He wants to plunge the world into eternal night.", "gap": 0.6},
+  {"say": "Nova stands on the rooftop.", "gap": 0.3},
+  {"say": "Light versus darkness.", "gap": 0.4},
+  {"say": "The battle begins.", "gap": 0.3},
+  {"say": "Nova unleashes his power.", "gap": 0.5},
+  {"say": "A beam of pure light cuts through the shadows.", "gap": 0.6},
+  {"say": "Shadow Prime is defeated.", "gap": 0.4},
+  {"say": "The city is saved.", "gap": 0.3},
+  {"say": "Nova disappears into the dawn.", "gap": 0.5},
+  {"say": "Until next time.", "gap": 0}
+ ]
+}

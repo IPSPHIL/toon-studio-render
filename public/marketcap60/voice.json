@@ -1,0 +1,798 @@
+{
+ "voice": "own",
+ "total": 82.3,
+ "lines": [
+  {
+   "i": 0,
+   "text": "What is Market Capitalization?",
+   "start": 0.0,
+   "end": 2.3,
+   "words": [
+    {
+     "w": "What",
+     "t": 0.0
+    },
+    {
+     "w": "is",
+     "t": 0.46
+    },
+    {
+     "w": "Market",
+     "t": 0.68
+    },
+    {
+     "w": "Capitalization?",
+     "t": 1.08
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "Market cap equals share price times total shares outstanding.",
+   "start": 3.02,
+   "end": 7.04,
+   "words": [
+    {
+     "w": "Market",
+     "t": 3.02
+    },
+    {
+     "w": "cap",
+     "t": 3.46
+    },
+    {
+     "w": "equals",
+     "t": 3.8
+    },
+    {
+     "w": "share",
+     "t": 4.3
+    },
+    {
+     "w": "price",
+     "t": 4.66
+    },
+    {
+     "w": "times",
+     "t": 5.06
+    },
+    {
+     "w": "total",
+     "t": 5.52
+    },
+    {
+     "w": "shares",
+     "t": 5.88
+    },
+    {
+     "w": "outstanding.",
+     "t": 6.28
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "For example, fifty dollars per share times ten million shares.",
+   "start": 7.98,
+   "end": 12.42,
+   "words": [
+    {
+     "w": "For",
+     "t": 7.98
+    },
+    {
+     "w": "example,",
+     "t": 8.08
+    },
+    {
+     "w": "fifty",
+     "t": 9.013
+    },
+    {
+     "w": "dollars",
+     "t": 9.387
+    },
+    {
+     "w": "per",
+     "t": 9.76
+    },
+    {
+     "w": "share",
+     "t": 10.36
+    },
+    {
+     "w": "times",
+     "t": 10.72
+    },
+    {
+     "w": "ten",
+     "t": 11.4
+    },
+    {
+     "w": "million",
+     "t": 11.56
+    },
+    {
+     "w": "shares.",
+     "t": 11.88
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Equals five hundred million dollars.",
+   "start": 12.42,
+   "end": 15.48,
+   "words": [
+    {
+     "w": "Equals",
+     "t": 12.42
+    },
+    {
+     "w": "five",
+     "t": 13.767
+    },
+    {
+     "w": "hundred",
+     "t": 13.953
+    },
+    {
+     "w": "million",
+     "t": 14.14
+    },
+    {
+     "w": "dollars.",
+     "t": 15.28
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "But market cap is not the same as stock price.",
+   "start": 15.84,
+   "end": 18.74,
+   "words": [
+    {
+     "w": "But",
+     "t": 15.84
+    },
+    {
+     "w": "market",
+     "t": 16.18
+    },
+    {
+     "w": "cap",
+     "t": 16.58
+    },
+    {
+     "w": "is",
+     "t": 16.96
+    },
+    {
+     "w": "not",
+     "t": 17.26
+    },
+    {
+     "w": "the",
+     "t": 17.44
+    },
+    {
+     "w": "same",
+     "t": 17.62
+    },
+    {
+     "w": "as",
+     "t": 17.9
+    },
+    {
+     "w": "stock",
+     "t": 18.04
+    },
+    {
+     "w": "price.",
+     "t": 18.28
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "A company with a high share price isn't necessarily large.",
+   "start": 19.48,
+   "end": 23.1,
+   "words": [
+    {
+     "w": "A",
+     "t": 19.48
+    },
+    {
+     "w": "company",
+     "t": 19.64
+    },
+    {
+     "w": "with",
+     "t": 20.0
+    },
+    {
+     "w": "a",
+     "t": 20.32
+    },
+    {
+     "w": "high",
+     "t": 20.44
+    },
+    {
+     "w": "share",
+     "t": 20.7
+    },
+    {
+     "w": "price",
+     "t": 21.06
+    },
+    {
+     "w": "isn't",
+     "t": 21.56
+    },
+    {
+     "w": "necessarily",
+     "t": 21.94
+    },
+    {
+     "w": "large.",
+     "t": 22.5
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "Companies are classified by size.",
+   "start": 23.82,
+   "end": 25.92,
+   "words": [
+    {
+     "w": "Companies",
+     "t": 23.82
+    },
+    {
+     "w": "are",
+     "t": 24.28
+    },
+    {
+     "w": "classified",
+     "t": 24.54
+    },
+    {
+     "w": "by",
+     "t": 25.04
+    },
+    {
+     "w": "size.",
+     "t": 25.42
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "Small cap is under two billion dollars. High growth, high risk.",
+   "start": 26.68,
+   "end": 31.82,
+   "words": [
+    {
+     "w": "Small",
+     "t": 26.68
+    },
+    {
+     "w": "cap",
+     "t": 27.12
+    },
+    {
+     "w": "is",
+     "t": 27.5
+    },
+    {
+     "w": "under",
+     "t": 27.8
+    },
+    {
+     "w": "two",
+     "t": 28.18
+    },
+    {
+     "w": "billion",
+     "t": 28.34
+    },
+    {
+     "w": "dollars.",
+     "t": 29.08
+    },
+    {
+     "w": "High",
+     "t": 29.46
+    },
+    {
+     "w": "growth,",
+     "t": 30.18
+    },
+    {
+     "w": "high",
+     "t": 31.06
+    },
+    {
+     "w": "risk.",
+     "t": 31.38
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "Mid cap is two to ten billion. Balanced growth and risk.",
+   "start": 32.48,
+   "end": 36.64,
+   "words": [
+    {
+     "w": "Mid",
+     "t": 32.48
+    },
+    {
+     "w": "cap",
+     "t": 32.7
+    },
+    {
+     "w": "is",
+     "t": 32.98
+    },
+    {
+     "w": "two",
+     "t": 33.45
+    },
+    {
+     "w": "to",
+     "t": 33.6
+    },
+    {
+     "w": "ten",
+     "t": 33.89
+    },
+    {
+     "w": "billion.",
+     "t": 34.06
+    },
+    {
+     "w": "Balanced",
+     "t": 35.22
+    },
+    {
+     "w": "growth",
+     "t": 35.6
+    },
+    {
+     "w": "and",
+     "t": 35.98
+    },
+    {
+     "w": "risk.",
+     "t": 36.2
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "Large cap is over ten billion. Stable, lower risk.",
+   "start": 37.36,
+   "end": 42.02,
+   "words": [
+    {
+     "w": "Large",
+     "t": 37.36
+    },
+    {
+     "w": "cap",
+     "t": 37.58
+    },
+    {
+     "w": "is",
+     "t": 38.0
+    },
+    {
+     "w": "over",
+     "t": 38.3
+    },
+    {
+     "w": "ten",
+     "t": 38.71
+    },
+    {
+     "w": "billion.",
+     "t": 38.88
+    },
+    {
+     "w": "Stable,",
+     "t": 40.22
+    },
+    {
+     "w": "lower",
+     "t": 41.28
+    },
+    {
+     "w": "risk.",
+     "t": 41.48
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "Real world examples.",
+   "start": 42.58,
+   "end": 43.96,
+   "words": [
+    {
+     "w": "Real",
+     "t": 42.58
+    },
+    {
+     "w": "world",
+     "t": 42.94
+    },
+    {
+     "w": "examples.",
+     "t": 43.34
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "Apple is a large cap at two point eight trillion.",
+   "start": 45.0,
+   "end": 47.82,
+   "words": [
+    {
+     "w": "Apple",
+     "t": 45.0
+    },
+    {
+     "w": "is",
+     "t": 45.26
+    },
+    {
+     "w": "a",
+     "t": 45.5
+    },
+    {
+     "w": "large",
+     "t": 45.6
+    },
+    {
+     "w": "cap",
+     "t": 45.92
+    },
+    {
+     "w": "at",
+     "t": 46.3
+    },
+    {
+     "w": "two",
+     "t": 46.8
+    },
+    {
+     "w": "point",
+     "t": 47.0
+    },
+    {
+     "w": "eight",
+     "t": 47.2
+    },
+    {
+     "w": "trillion.",
+     "t": 47.4
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "Tesla is large cap at eight hundred billion.",
+   "start": 48.64,
+   "end": 51.26,
+   "words": [
+    {
+     "w": "Tesla",
+     "t": 48.64
+    },
+    {
+     "w": "is",
+     "t": 49.0
+    },
+    {
+     "w": "large",
+     "t": 49.38
+    },
+    {
+     "w": "cap",
+     "t": 49.7
+    },
+    {
+     "w": "at",
+     "t": 50.08
+    },
+    {
+     "w": "eight",
+     "t": 50.527
+    },
+    {
+     "w": "hundred",
+     "t": 50.693
+    },
+    {
+     "w": "billion.",
+     "t": 50.86
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Roku is mid cap at eight billion.",
+   "start": 52.06,
+   "end": 54.24,
+   "words": [
+    {
+     "w": "Roku",
+     "t": 52.06
+    },
+    {
+     "w": "is",
+     "t": 52.48
+    },
+    {
+     "w": "mid",
+     "t": 52.84
+    },
+    {
+     "w": "cap",
+     "t": 53.12
+    },
+    {
+     "w": "at",
+     "t": 53.36
+    },
+    {
+     "w": "eight",
+     "t": 53.79
+    },
+    {
+     "w": "billion.",
+     "t": 53.9
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "Beyond Meat is small cap at one billion.",
+   "start": 55.06,
+   "end": 57.66,
+   "words": [
+    {
+     "w": "Beyond",
+     "t": 55.06
+    },
+    {
+     "w": "Meat",
+     "t": 55.38
+    },
+    {
+     "w": "is",
+     "t": 55.74
+    },
+    {
+     "w": "small",
+     "t": 56.02
+    },
+    {
+     "w": "cap",
+     "t": 56.36
+    },
+    {
+     "w": "at",
+     "t": 56.72
+    },
+    {
+     "w": "one",
+     "t": 57.16
+    },
+    {
+     "w": "billion.",
+     "t": 57.3
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "Portfolio strategies.",
+   "start": 58.42,
+   "end": 60.1,
+   "words": [
+    {
+     "w": "Portfolio",
+     "t": 58.42
+    },
+    {
+     "w": "strategies.",
+     "t": 59.4
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "Diversify across all cap sizes.",
+   "start": 61.02,
+   "end": 63.42,
+   "words": [
+    {
+     "w": "Diversify",
+     "t": 61.02
+    },
+    {
+     "w": "across",
+     "t": 61.76
+    },
+    {
+     "w": "all",
+     "t": 62.12
+    },
+    {
+     "w": "cap",
+     "t": 62.52
+    },
+    {
+     "w": "sizes.",
+     "t": 62.84
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "Growth investing focuses on small and mid caps.",
+   "start": 64.18,
+   "end": 67.62,
+   "words": [
+    {
+     "w": "Growth",
+     "t": 64.18
+    },
+    {
+     "w": "investing",
+     "t": 64.58
+    },
+    {
+     "w": "focuses",
+     "t": 65.38
+    },
+    {
+     "w": "on",
+     "t": 65.92
+    },
+    {
+     "w": "small",
+     "t": 66.28
+    },
+    {
+     "w": "and",
+     "t": 66.68
+    },
+    {
+     "w": "mid",
+     "t": 66.92
+    },
+    {
+     "w": "caps.",
+     "t": 67.16
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "Value investing focuses on large caps.",
+   "start": 68.28,
+   "end": 71.26,
+   "words": [
+    {
+     "w": "Value",
+     "t": 68.28
+    },
+    {
+     "w": "investing",
+     "t": 68.76
+    },
+    {
+     "w": "focuses",
+     "t": 69.34
+    },
+    {
+     "w": "on",
+     "t": 70.0
+    },
+    {
+     "w": "large",
+     "t": 70.36
+    },
+    {
+     "w": "caps.",
+     "t": 70.7
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "Rebalance quarterly for risk management.",
+   "start": 72.0,
+   "end": 74.56,
+   "words": [
+    {
+     "w": "Rebalance",
+     "t": 72.0
+    },
+    {
+     "w": "quarterly",
+     "t": 72.62
+    },
+    {
+     "w": "for",
+     "t": 73.18
+    },
+    {
+     "w": "risk",
+     "t": 73.58
+    },
+    {
+     "w": "management.",
+     "t": 73.9
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "That is market capitalization.",
+   "start": 75.38,
+   "end": 77.34,
+   "words": [
+    {
+     "w": "That",
+     "t": 75.38
+    },
+    {
+     "w": "is",
+     "t": 75.52
+    },
+    {
+     "w": "market",
+     "t": 75.74
+    },
+    {
+     "w": "capitalization.",
+     "t": 76.1
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "Diversify wisely. Invest smart.",
+   "start": 78.04,
+   "end": 81.1,
+   "words": [
+    {
+     "w": "Diversify",
+     "t": 78.04
+    },
+    {
+     "w": "wisely.",
+     "t": 78.94
+    },
+    {
+     "w": "Invest",
+     "t": 80.28
+    },
+    {
+     "w": "smart.",
+     "t": 80.52
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{"engine": "edge", "voice": "en-US-GuyNeural", "rate": "-5%", "pitch": "-2Hz", "lead": 0.45, "tail": 2.0,
+ "lines": [
+  {"say": "What is Market Capitalization?", "gap": 0.6},
+  {"say": "Market cap equals share price times total shares outstanding.", "gap": 0.5},
+  {"say": "For example, fifty dollars per share times ten million shares.", "gap": 0.3},
+  {"say": "Equals five hundred million dollars.", "gap": 0.7},
+  {"say": "But market cap is not the same as stock price.", "gap": 0.4},
+  {"say": "A company with a high share price isn't necessarily large.", "gap": 0.7},
+  {"say": "Companies are classified by size.", "gap": 0.5},
+  {"say": "Small cap is under two billion dollars. High growth, high risk.", "gap": 0.4},
+  {"say": "Mid cap is two to ten billion. Balanced growth and risk.", "gap": 0.4},
+  {"say": "Large cap is over ten billion. Stable, lower risk.", "gap": 0.7},
+  {"say": "Real world examples.", "gap": 0.4},
+  {"say": "Apple is a large cap at two point eight trillion.", "gap": 0.3},
+  {"say": "Tesla is large cap at eight hundred billion.", "gap": 0.3},
+  {"say": "Roku is mid cap at eight billion.", "gap": 0.3},
+  {"say": "Beyond Meat is small cap at one billion.", "gap": 0.7},
+  {"say": "Portfolio strategies.", "gap": 0.4},
+  {"say": "Diversify across all cap sizes.", "gap": 0.3},
+  {"say": "Growth investing focuses on small and mid caps.", "gap": 0.3},
+  {"say": "Value investing focuses on large caps.", "gap": 0.3},
+  {"say": "Rebalance quarterly for risk management.", "gap": 0.7},
+  {"say": "That is market capitalization.", "gap": 0.4},
+  {"say": "Diversify wisely. Invest smart.", "gap": 0}
+ ]
+}

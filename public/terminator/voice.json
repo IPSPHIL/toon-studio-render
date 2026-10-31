@@ -1,0 +1,1026 @@
+{
+ "voice": "own",
+ "total": 109.06,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Terminator in Jurassic Park!",
+   "start": 0.0,
+   "end": 2.4,
+   "words": [
+    {
+     "w": "Terminator",
+     "t": 0.0
+    },
+    {
+     "w": "in",
+     "t": 0.92
+    },
+    {
+     "w": "Jurassic",
+     "t": 1.24
+    },
+    {
+     "w": "Park!",
+     "t": 1.52
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "text": "A T-800 cyborg is sent back in time.",
+   "start": 2.94,
+   "end": 6.06,
+   "words": [
+    {
+     "w": "A",
+     "t": 2.94
+    },
+    {
+     "w": "T-800",
+     "t": 3.48
+    },
+    {
+     "w": "cyborg",
+     "t": 4.02
+    },
+    {
+     "w": "is",
+     "t": 4.68
+    },
+    {
+     "w": "sent",
+     "t": 4.96
+    },
+    {
+     "w": "back",
+     "t": 5.18
+    },
+    {
+     "w": "in",
+     "t": 5.42
+    },
+    {
+     "w": "time.",
+     "t": 5.68
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "text": "But something goes wrong.",
+   "start": 6.78,
+   "end": 8.14,
+   "words": [
+    {
+     "w": "But",
+     "t": 6.78
+    },
+    {
+     "w": "something",
+     "t": 7.04
+    },
+    {
+     "w": "goes",
+     "t": 7.38
+    },
+    {
+     "w": "wrong.",
+     "t": 7.72
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "text": "Instead of nineteen eighty-four, he lands in the Jurassic Period.",
+   "start": 8.76,
+   "end": 13.2,
+   "words": [
+    {
+     "w": "Instead",
+     "t": 8.76
+    },
+    {
+     "w": "of",
+     "t": 9.16
+    },
+    {
+     "w": "nineteen",
+     "t": 9.993
+    },
+    {
+     "w": "eighty-four,",
+     "t": 10.587
+    },
+    {
+     "w": "he",
+     "t": 11.18
+    },
+    {
+     "w": "lands",
+     "t": 11.42
+    },
+    {
+     "w": "in",
+     "t": 11.74
+    },
+    {
+     "w": "the",
+     "t": 11.98
+    },
+    {
+     "w": "Jurassic",
+     "t": 12.08
+    },
+    {
+     "w": "Period.",
+     "t": 12.56
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "text": "The year is one hundred and fifty million BC.",
+   "start": 14.02,
+   "end": 16.64,
+   "words": [
+    {
+     "w": "The",
+     "t": 14.02
+    },
+    {
+     "w": "year",
+     "t": 14.14
+    },
+    {
+     "w": "is",
+     "t": 14.4
+    },
+    {
+     "w": "one",
+     "t": 14.816
+    },
+    {
+     "w": "hundred",
+     "t": 14.992
+    },
+    {
+     "w": "and",
+     "t": 15.168
+    },
+    {
+     "w": "fifty",
+     "t": 15.344
+    },
+    {
+     "w": "million",
+     "t": 15.52
+    },
+    {
+     "w": "BC.",
+     "t": 16.06
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "text": "Dinosaurs rule the Earth.",
+   "start": 17.64,
+   "end": 19.26,
+   "words": [
+    {
+     "w": "Dinosaurs",
+     "t": 17.64
+    },
+    {
+     "w": "rule",
+     "t": 18.32
+    },
+    {
+     "w": "the",
+     "t": 18.74
+    },
+    {
+     "w": "Earth.",
+     "t": 18.94
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "text": "The Terminator scans the environment.",
+   "start": 19.88,
+   "end": 22.06,
+   "words": [
+    {
+     "w": "The",
+     "t": 19.88
+    },
+    {
+     "w": "Terminator",
+     "t": 20.02
+    },
+    {
+     "w": "scans",
+     "t": 20.66
+    },
+    {
+     "w": "the",
+     "t": 21.04
+    },
+    {
+     "w": "environment.",
+     "t": 21.46
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "text": "No humans. No technology. Just massive creatures everywhere.",
+   "start": 23.2,
+   "end": 28.16,
+   "words": [
+    {
+     "w": "No",
+     "t": 23.2
+    },
+    {
+     "w": "humans.",
+     "t": 23.48
+    },
+    {
+     "w": "No",
+     "t": 24.64
+    },
+    {
+     "w": "technology.",
+     "t": 24.98
+    },
+    {
+     "w": "Just",
+     "t": 26.4
+    },
+    {
+     "w": "massive",
+     "t": 26.62
+    },
+    {
+     "w": "creatures",
+     "t": 27.1
+    },
+    {
+     "w": "everywhere.",
+     "t": 27.64
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "text": "A Tyrannosaurus Rex appears.",
+   "start": 28.68,
+   "end": 31.02,
+   "words": [
+    {
+     "w": "A",
+     "t": 28.68
+    },
+    {
+     "w": "Tyrannosaurus",
+     "t": 29.1
+    },
+    {
+     "w": "Rex",
+     "t": 29.92
+    },
+    {
+     "w": "appears.",
+     "t": 30.48
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "text": "The Terminator calculates: threat level, high.",
+   "start": 31.88,
+   "end": 35.9,
+   "words": [
+    {
+     "w": "The",
+     "t": 31.88
+    },
+    {
+     "w": "Terminator",
+     "t": 32.0
+    },
+    {
+     "w": "calculates:",
+     "t": 32.58
+    },
+    {
+     "w": "threat",
+     "t": 34.22
+    },
+    {
+     "w": "level,",
+     "t": 34.5
+    },
+    {
+     "w": "high.",
+     "t": 35.52
+    }
+   ]
+  },
+  {
+   "i": 10,
+   "text": "The T-Rex roars. The Terminator doesn't flinch.",
+   "start": 36.62,
+   "end": 39.9,
+   "words": [
+    {
+     "w": "The",
+     "t": 36.62
+    },
+    {
+     "w": "T-Rex",
+     "t": 36.92
+    },
+    {
+     "w": "roars.",
+     "t": 37.18
+    },
+    {
+     "w": "The",
+     "t": 38.36
+    },
+    {
+     "w": "Terminator",
+     "t": 38.48
+    },
+    {
+     "w": "doesn't",
+     "t": 39.08
+    },
+    {
+     "w": "flinch.",
+     "t": 39.56
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "text": "The cyborg pulls out his shotgun.",
+   "start": 40.74,
+   "end": 42.76,
+   "words": [
+    {
+     "w": "The",
+     "t": 40.74
+    },
+    {
+     "w": "cyborg",
+     "t": 40.88
+    },
+    {
+     "w": "pulls",
+     "t": 41.44
+    },
+    {
+     "w": "out",
+     "t": 41.92
+    },
+    {
+     "w": "his",
+     "t": 42.2
+    },
+    {
+     "w": "shotgun.",
+     "t": 42.42
+    }
+   ]
+  },
+  {
+   "i": 12,
+   "text": "But the T-Rex has thick skin.",
+   "start": 43.56,
+   "end": 45.56,
+   "words": [
+    {
+     "w": "But",
+     "t": 43.56
+    },
+    {
+     "w": "the",
+     "t": 43.82
+    },
+    {
+     "w": "T-Rex",
+     "t": 44.24
+    },
+    {
+     "w": "has",
+     "t": 44.52
+    },
+    {
+     "w": "thick",
+     "t": 44.82
+    },
+    {
+     "w": "skin.",
+     "t": 45.08
+    }
+   ]
+  },
+  {
+   "i": 13,
+   "text": "Bullets bounce off.",
+   "start": 46.36,
+   "end": 47.44,
+   "words": [
+    {
+     "w": "Bullets",
+     "t": 46.36
+    },
+    {
+     "w": "bounce",
+     "t": 46.72
+    },
+    {
+     "w": "off.",
+     "t": 47.02
+    }
+   ]
+  },
+  {
+   "i": 14,
+   "text": "The Terminator adapts.",
+   "start": 48.12,
+   "end": 49.58,
+   "words": [
+    {
+     "w": "The",
+     "t": 48.12
+    },
+    {
+     "w": "Terminator",
+     "t": 48.22
+    },
+    {
+     "w": "adapts.",
+     "t": 48.84
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "text": "He uses his infrared vision to find weak points.",
+   "start": 50.2,
+   "end": 53.36,
+   "words": [
+    {
+     "w": "He",
+     "t": 50.2
+    },
+    {
+     "w": "uses",
+     "t": 50.34
+    },
+    {
+     "w": "his",
+     "t": 50.7
+    },
+    {
+     "w": "infrared",
+     "t": 50.96
+    },
+    {
+     "w": "vision",
+     "t": 51.4
+    },
+    {
+     "w": "to",
+     "t": 51.94
+    },
+    {
+     "w": "find",
+     "t": 52.22
+    },
+    {
+     "w": "weak",
+     "t": 52.54
+    },
+    {
+     "w": "points.",
+     "t": 52.86
+    }
+   ]
+  },
+  {
+   "i": 16,
+   "text": "The T-Rex has a vulnerable spot behind the knee.",
+   "start": 54.29,
+   "end": 57.72,
+   "words": [
+    {
+     "w": "The",
+     "t": 54.29
+    },
+    {
+     "w": "T-Rex",
+     "t": 55.02
+    },
+    {
+     "w": "has",
+     "t": 55.32
+    },
+    {
+     "w": "a",
+     "t": 55.58
+    },
+    {
+     "w": "vulnerable",
+     "t": 55.74
+    },
+    {
+     "w": "spot",
+     "t": 56.14
+    },
+    {
+     "w": "behind",
+     "t": 56.66
+    },
+    {
+     "w": "the",
+     "t": 57.12
+    },
+    {
+     "w": "knee.",
+     "t": 57.4
+    }
+   ]
+  },
+  {
+   "i": 17,
+   "text": "A pack of Velociraptors surrounds him.",
+   "start": 58.36,
+   "end": 60.84,
+   "words": [
+    {
+     "w": "A",
+     "t": 58.36
+    },
+    {
+     "w": "pack",
+     "t": 58.48
+    },
+    {
+     "w": "of",
+     "t": 58.76
+    },
+    {
+     "w": "Velociraptors",
+     "t": 58.92
+    },
+    {
+     "w": "surrounds",
+     "t": 59.96
+    },
+    {
+     "w": "him.",
+     "t": 60.42
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "text": "Fast. Smart. Dangerous.",
+   "start": 61.52,
+   "end": 63.76,
+   "words": [
+    {
+     "w": "Fast.",
+     "t": 61.52
+    },
+    {
+     "w": "Smart.",
+     "t": 61.98
+    },
+    {
+     "w": "Dangerous.",
+     "t": 63.06
+    }
+   ]
+  },
+  {
+   "i": 19,
+   "text": "The Terminator fights them all.",
+   "start": 64.36,
+   "end": 66.02,
+   "words": [
+    {
+     "w": "The",
+     "t": 64.36
+    },
+    {
+     "w": "Terminator",
+     "t": 64.42
+    },
+    {
+     "w": "fights",
+     "t": 65.0
+    },
+    {
+     "w": "them",
+     "t": 65.44
+    },
+    {
+     "w": "all.",
+     "t": 65.78
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "text": "Meanwhile, a Brachiosaurus watches peacefully.",
+   "start": 66.88,
+   "end": 70.46,
+   "words": [
+    {
+     "w": "Meanwhile,",
+     "t": 66.88
+    },
+    {
+     "w": "a",
+     "t": 68.14
+    },
+    {
+     "w": "Brachiosaurus",
+     "t": 68.28
+    },
+    {
+     "w": "watches",
+     "t": 69.22
+    },
+    {
+     "w": "peacefully.",
+     "t": 69.78
+    }
+   ]
+  },
+  {
+   "i": 21,
+   "text": "Not all dinosaurs are threats.",
+   "start": 71.22,
+   "end": 72.9,
+   "words": [
+    {
+     "w": "Not",
+     "t": 71.22
+    },
+    {
+     "w": "all",
+     "t": 71.38
+    },
+    {
+     "w": "dinosaurs",
+     "t": 71.68
+    },
+    {
+     "w": "are",
+     "t": 72.3
+    },
+    {
+     "w": "threats.",
+     "t": 72.62
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "text": "The Terminator finds a cave.",
+   "start": 73.76,
+   "end": 75.52,
+   "words": [
+    {
+     "w": "The",
+     "t": 73.76
+    },
+    {
+     "w": "Terminator",
+     "t": 73.9
+    },
+    {
+     "w": "finds",
+     "t": 74.5
+    },
+    {
+     "w": "a",
+     "t": 74.9
+    },
+    {
+     "w": "cave.",
+     "t": 75.16
+    }
+   ]
+  },
+  {
+   "i": 23,
+   "text": "Inside, he discovers fossilized remains.",
+   "start": 76.34,
+   "end": 79.36,
+   "words": [
+    {
+     "w": "Inside,",
+     "t": 76.34
+    },
+    {
+     "w": "he",
+     "t": 77.42
+    },
+    {
+     "w": "discovers",
+     "t": 77.62
+    },
+    {
+     "w": "fossilized",
+     "t": 78.16
+    },
+    {
+     "w": "remains.",
+     "t": 79.04
+    }
+   ]
+  },
+  {
+   "i": 24,
+   "text": "Humans? No. Something older.",
+   "start": 80.74,
+   "end": 83.66,
+   "words": [
+    {
+     "w": "Humans?",
+     "t": 80.74
+    },
+    {
+     "w": "No.",
+     "t": 81.88
+    },
+    {
+     "w": "Something",
+     "t": 82.7
+    },
+    {
+     "w": "older.",
+     "t": 83.14
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "text": "He realizes: this timeline has no Skynet.",
+   "start": 84.32,
+   "end": 87.98,
+   "words": [
+    {
+     "w": "He",
+     "t": 84.32
+    },
+    {
+     "w": "realizes:",
+     "t": 84.42
+    },
+    {
+     "w": "this",
+     "t": 85.92
+    },
+    {
+     "w": "timeline",
+     "t": 86.12
+    },
+    {
+     "w": "has",
+     "t": 86.58
+    },
+    {
+     "w": "no",
+     "t": 86.98
+    },
+    {
+     "w": "Skynet.",
+     "t": 87.24
+    }
+   ]
+  },
+  {
+   "i": 26,
+   "text": "No Judgment Day. No war.",
+   "start": 88.48,
+   "end": 90.94,
+   "words": [
+    {
+     "w": "No",
+     "t": 88.48
+    },
+    {
+     "w": "Judgment",
+     "t": 88.82
+    },
+    {
+     "w": "Day.",
+     "t": 89.22
+    },
+    {
+     "w": "No",
+     "t": 90.28
+    },
+    {
+     "w": "war.",
+     "t": 90.56
+    }
+   ]
+  },
+  {
+   "i": 27,
+   "text": "Just nature.",
+   "start": 91.54,
+   "end": 92.26,
+   "words": [
+    {
+     "w": "Just",
+     "t": 91.54
+    },
+    {
+     "w": "nature.",
+     "t": 91.7
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "text": "The Terminator's mission changes.",
+   "start": 92.98,
+   "end": 94.78,
+   "words": [
+    {
+     "w": "The",
+     "t": 92.98
+    },
+    {
+     "w": "Terminator's",
+     "t": 93.08
+    },
+    {
+     "w": "mission",
+     "t": 93.82
+    },
+    {
+     "w": "changes.",
+     "t": 94.08
+    }
+   ]
+  },
+  {
+   "i": 29,
+   "text": "Protect this world.",
+   "start": 95.44,
+   "end": 96.68,
+   "words": [
+    {
+     "w": "Protect",
+     "t": 95.44
+    },
+    {
+     "w": "this",
+     "t": 95.76
+    },
+    {
+     "w": "world.",
+     "t": 96.24
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "text": "From what? From future humans who might destroy it.",
+   "start": 97.26,
+   "end": 101.12,
+   "words": [
+    {
+     "w": "From",
+     "t": 97.26
+    },
+    {
+     "w": "what?",
+     "t": 97.5
+    },
+    {
+     "w": "From",
+     "t": 98.36
+    },
+    {
+     "w": "future",
+     "t": 98.66
+    },
+    {
+     "w": "humans",
+     "t": 99.12
+    },
+    {
+     "w": "who",
+     "t": 99.74
+    },
+    {
+     "w": "might",
+     "t": 100.1
+    },
+    {
+     "w": "destroy",
+     "t": 100.3
+    },
+    {
+     "w": "it.",
+     "t": 100.78
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "text": "He stands guard over the dinosaurs.",
+   "start": 101.78,
+   "end": 103.88,
+   "words": [
+    {
+     "w": "He",
+     "t": 101.78
+    },
+    {
+     "w": "stands",
+     "t": 101.9
+    },
+    {
+     "w": "guard",
+     "t": 102.26
+    },
+    {
+     "w": "over",
+     "t": 102.76
+    },
+    {
+     "w": "the",
+     "t": 103.08
+    },
+    {
+     "w": "dinosaurs.",
+     "t": 103.24
+    }
+   ]
+  },
+  {
+   "i": 32,
+   "text": "A protector of the ancient world.",
+   "start": 104.7,
+   "end": 106.62,
+   "words": [
+    {
+     "w": "A",
+     "t": 104.7
+    },
+    {
+     "w": "protector",
+     "t": 104.8
+    },
+    {
+     "w": "of",
+     "t": 105.18
+    },
+    {
+     "w": "the",
+     "t": 105.62
+    },
+    {
+     "w": "ancient",
+     "t": 105.78
+    },
+    {
+     "w": "world.",
+     "t": 106.1
+    }
+   ]
+  },
+  {
+   "i": 33,
+   "text": "The End.",
+   "start": 107.32,
+   "end": 107.86,
+   "words": [
+    {
+     "w": "The",
+     "t": 107.32
+    },
+    {
+     "w": "End.",
+     "t": 107.5
+    }
+   ]
+  }
+ ]
+}
