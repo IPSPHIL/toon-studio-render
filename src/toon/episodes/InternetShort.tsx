@@ -16,18 +16,18 @@ const L = (i: number) => voice.lines[i];
 const W = (w: string) => { const r = voice.lines.flatMap((l: any) => l.words).find((x: any) => x.w.toLowerCase().startsWith(w)); return r ? r.t : 0; };
 
 export const IS = {
-  cut: L(1).start - 0.12,
-  think: W('что') + 0.05,
-  phone: W('телефон') - 0.08,
-  news: W('новости') - 0.08,
-  social: W('новости') + 1.0,
-  concept: W('представь') - 0.08,
-  day1: W('день') - 0.08,
-  money: W('деньги') - 0.08,
-  street: W('улицу') - 0.08,
-  kids: W('дети') - 0.08,
-  end: W('зависимы') - 0.08,
-  last: W('комментариях') - 0.08,
+  cut: L(1).start,
+  think: L(0).start + 2.0,
+  phone: L(1).start,
+  news: L(3).start,
+  social: L(3).start + 2.5,
+  concept: L(2).start,
+  day1: L(5).start,
+  money: L(11).start,
+  street: L(13).start,
+  kids: L(8).start,
+  end: L(18).start,
+  last: L(21).start,
 };
 
 
@@ -59,7 +59,6 @@ const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <text x={1200} y={200} fill="#ffffff" fontSize={48} fontWeight="bold">ЧЕЛОВЕК</text>
       <NumberCard f={f} fps={fps} at={IS.phone} value="Нет сети" caption="Телефон" x={1200} y={300} size={28} accent="#ff6060" />
     </g>
   );
