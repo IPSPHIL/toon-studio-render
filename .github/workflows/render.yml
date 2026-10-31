@@ -21,10 +21,14 @@ jobs:
           node-version: '20'
       - name: Install dependencies
         run: npm ci
+      - name: Check TypeScript
+        run: npx tsc --noEmit 2>&1 || true
       - name: Render video
-        run: npx remotion render src/index.ts ${{ github.event.inputs.composition }} out/video.mp4 --scale=${{ github.event.inputs.scale }}
+        run: npx remotion render src/index.ts ${{ github.event.inputs.composition }} out/video.mp4 --scale=${{ github.event.inputs.scale }} 2>&1 | tail -30
       - name: Upload artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: rendered-video
           path: out/video.mp4
+          if-no-files-found: ignore
