@@ -44,7 +44,7 @@ const rimTo = (from: {x: number; y: number}, to: {x: number; y: number}) => (Mat
 
 const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.3, at = {x: 820, y: ROOF.stand - 70 * s, s};
+  const s = 2.2, at = {x: 820, y: ROOF.stand - 70 * s, s};
   const body = t < IS.think + 0.2 ? 'idle' : t < IS.phone ? 'think' : 'whatif';
   const turn = ramp(t, IS.think, IS.think + 0.5, easeInOut) * (1 - ramp(t, IS.phone - 0.1, IS.phone + 0.35, easeInOut));
   const face = {...exprAt(t, [[0, 'neutral'], [IS.think + 0.2, 'thinking'], [IS.phone + 0.05, {open: 1, wide: 0.35, brow: 0.7, browTilt: 0.1, mouthW: 0.95, mouthOpen: 0.32, smile: 0.7}]], 0.35),
@@ -58,7 +58,6 @@ const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Skyline theme={th} t={t} shift={-t * 6} />
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} />
-      <text x={820} y={ROOF.stand - 70 * 1.3 - 25 * 1.3 + 60} textAnchor="middle" fill="#ff0000" fontSize={16} fontWeight="bold" fontFamily="Arial">SO3</text>
       
       <text x={1200} y={200} fill="#ffffff" fontSize={48} fontWeight="bold">ЧЕЛОВЕК</text>
       <NumberCard f={f} fps={fps} at={IS.phone} value="Нет сети" caption="Телефон" x={1200} y={300} size={28} accent="#ff6060" />
@@ -68,7 +67,7 @@ const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 
 const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.8, at = {x: 960, y: ROOF.stand - 70 * s, s};
+  const s = 2.5, at = {x: 960, y: ROOF.stand - 70 * s, s};
   const body = t < IS.news ? 'idle' : 'point';
   const face = {...exprAt(t, [[0, 'neutral'], [IS.news, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.news * fps)]);
@@ -87,7 +86,7 @@ const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 
 const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.0, at = {x: 600, y: ROOF.stand - 70 * s, s};
+  const s = 2.0, at = {x: 600, y: ROOF.stand - 70 * s, s};
   const body = t < IS.concept ? 'idle' : 'whatif';
   const face = {...exprAt(t, [[0, 'neutral'], [IS.concept, {open: 1, wide: 0.5, brow: 0.8, mouthOpen: 0.4, smile: 0.3}]], 0.4)};
   face.open *= blinkAt(f, [Math.round(IS.concept * fps)]);
@@ -105,7 +104,7 @@ const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 
 const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.3, at = {x: 500, y: ROOF.stand - 70 * s, s};
+  const s = 2.2, at = {x: 500, y: ROOF.stand - 70 * s, s};
   const body = t < IS.money ? 'idle' : 'think';
   const face = {...exprAt(t, [[0, 'sad'], [IS.money, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.money * fps)]);
@@ -125,7 +124,7 @@ const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 
 const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.5, at1 = {x: 400, y: ROOF.stand - 70 * s, s};
+  const s = 2.0, at1 = {x: 400, y: ROOF.stand - 70 * s, s};
   const at2 = {x: 800, y: ROOF.stand - 70 * s, s};
   const body1 = 'idle';
   const body2 = 'idle';
@@ -148,7 +147,7 @@ const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 
 const S6: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const th = THEMES.fairytale;
-  const s = 1.5, at = {x: 960, y: ROOF.stand - 70 * s, s};
+  const s = 2.2, at = {x: 960, y: ROOF.stand - 70 * s, s};
   const body = 'think';
   const face = {...exprAt(t, [[0, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.end * fps)]);
