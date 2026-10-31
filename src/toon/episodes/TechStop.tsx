@@ -1,6 +1,6 @@
 import React from 'react';
 import {AbsoluteFill, Audio, staticFile, useCurrentFrame, useVideoConfig} from "remotion";
-import voice from './internetshort.voice.json';
+import voice from './techstop.voice.json';
 import {HumanChar} from '../characters/HumanChar';
 import {poseAt, exprAt, makePose, alive, addPart} from '../lib/poses';
 import {THEMES} from '../lib/fx';
