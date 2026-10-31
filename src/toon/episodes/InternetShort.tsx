@@ -177,10 +177,16 @@ export const InternetShort: React.FC = () => {
   const cur = scenes.find(s => t >= s.from && t < s.to) || scenes[scenes.length - 1];
   const C = cur.C;
   const poseIdx = Math.min(5, Math.floor(t / 12));
+  // Fade transition between scenes
+  const sceneStart = cur.from;
+  const sceneEnd = cur.to;
+  const fadeIn = clamp((t - sceneStart) / 0.4);
+  const fadeOut = clamp((sceneEnd - t) / 0.3);
+  const opacity = Math.min(fadeIn, fadeOut);
   return (
     <AbsoluteFill style={{background: '#1a1a2e'}}>
       <Audio src={staticFile('internet-short/mix.wav')} />
-      <svg width={1920} height={1080} viewBox="0 0 1920 1080">
+      <svg width={1920} height={1080} viewBox="0 0 1920 1080" opacity={opacity}>
         <C t={t} f={frame} fps={fps} />
       </svg>
       <Subtitles lines={voice.lines} f={frame} fps={fps} total={IS_SEC} bottom={120} />
