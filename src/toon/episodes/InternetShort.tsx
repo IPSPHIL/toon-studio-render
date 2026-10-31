@@ -66,13 +66,13 @@ const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 };
 
 const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
-  const th = THEMES.fairytale;
+  const th = THEMES.dusk;
   const s = 2.5, at = {x: 960, y: ROOF.stand - 70 * s, s};
   const body = t < IS.news ? 'idle' : 'point';
   const face = {...exprAt(t, [[0, 'neutral'], [IS.news, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.news * fps)]);
   return (
-    <g transform={CAM(1.0, 960, 540)}>
+    <g transform={CAM(1.05, 1000, 540)}>
       <Sky theme={th} t={t} id="s2sky" />
       <Skyline theme={th} t={t} shift={-t * 4} />
       <Rooftop theme={th} t={t} />
@@ -85,13 +85,13 @@ const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 };
 
 const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
-  const th = THEMES.fairytale;
+  const th = THEMES.gold;
   const s = 2.0, at = {x: 600, y: ROOF.stand - 70 * s, s};
   const body = t < IS.concept ? 'idle' : 'whatif';
   const face = {...exprAt(t, [[0, 'neutral'], [IS.concept, {open: 1, wide: 0.5, brow: 0.8, mouthOpen: 0.4, smile: 0.3}]], 0.4)};
   face.open *= blinkAt(f, [Math.round(IS.concept * fps)]);
   return (
-    <g transform={CAM(1.0, 960, 540)}>
+    <g transform={CAM(0.95, 960, 540)}>
       <Sky theme={th} t={t} id="s3sky" />
       <Skyline theme={th} t={t} shift={-t * 3} />
       <Rooftop theme={th} t={t} />
@@ -103,13 +103,13 @@ const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 };
 
 const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
-  const th = THEMES.fairytale;
+  const th = THEMES.neon;
   const s = 2.2, at = {x: 500, y: ROOF.stand - 70 * s, s};
   const body = t < IS.money ? 'idle' : 'think';
   const face = {...exprAt(t, [[0, 'sad'], [IS.money, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.money * fps)]);
   return (
-    <g transform={CAM(1.0, 960, 540)}>
+    <g transform={CAM(1.05, 920, 540)}>
       <Sky theme={th} t={t} id="s4sky" />
       <Skyline theme={th} t={t} shift={-t * 2} />
       <Rooftop theme={th} t={t} />
@@ -123,7 +123,7 @@ const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
 };
 
 const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
-  const th = THEMES.fairytale;
+  const th = THEMES.night;
   const s = 2.0, at1 = {x: 400, y: ROOF.stand - 70 * s, s};
   const at2 = {x: 800, y: ROOF.stand - 70 * s, s};
   const body1 = 'idle';
@@ -133,7 +133,7 @@ const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   face1.open *= blinkAt(f, [Math.round(IS.street * fps)]);
   face2.open *= blinkAt(f, [Math.round((IS.street + 0.5) * fps)]);
   return (
-    <g transform={CAM(1.0, 960, 540)}>
+    <g transform={CAM(1.1, 960, 540)}>
       <Sky theme={th} t={t} id="s5sky" />
       <Skyline theme={th} t={t} shift={-t * 3} />
       <Rooftop theme={th} t={t} />
@@ -152,7 +152,7 @@ const S6: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
   const face = {...exprAt(t, [[0, 'thinking']], 0.3)};
   face.open *= blinkAt(f, [Math.round(IS.end * fps)]);
   return (
-    <g transform={CAM(1.0, 960, 540)}>
+    <g transform={CAM(0.9, 960, 540)}>
       <Sky theme={th} t={t} id="s6sky" />
       <Skyline theme={th} t={t} shift={-t * 2} />
       <Rooftop theme={th} t={t} />
