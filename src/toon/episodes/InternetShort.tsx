@@ -79,6 +79,7 @@ const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Sky theme={th} t={t} id="s2sky" />
       <Skyline theme={th} t={t} shift={-t * 4} />
       <Rooftop theme={th} t={t} />
+      <Stickman pose={pose} look={STICK_SO3} id="s2" />
       
       <NumberCard f={f} fps={fps} at={IS.news} value="Пусто" caption="Новости" x={1200} y={250} size={28} accent="#ffaa44" />
       <NumberCard f={f} fps={fps} at={IS.social} value="Пусто" caption="Соцсети" x={1200} y={350} size={28} accent="#ffaa44" />
@@ -98,6 +99,7 @@ const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Sky theme={th} t={t} id="s3sky" />
       <Skyline theme={th} t={t} shift={-t * 3} />
       <Rooftop theme={th} t={t} />
+      <Stickman pose={pose} look={STICK_SO3} id="s3" />
       
       <TitleCard f={f} fps={fps} at={IS.concept} title="ИНТЕРНЕТ" kicker="ИСЧЕЗ НАВСЕГДА" />
     </g>
@@ -116,6 +118,7 @@ const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Sky theme={th} t={t} id="s4sky" />
       <Skyline theme={th} t={t} shift={-t * 2} />
       <Rooftop theme={th} t={t} />
+      <Stickman pose={pose} look={STICK_SO3} id="s4" />
       
       <NumberCard f={f} fps={fps} at={IS.money} value="Ошибка" caption="Банкоматы" x={1200} y={200} size={24} accent="#ff6060" />
       <NumberCard f={f} fps={fps} at={IS.money + 1} value="Не работают" caption="Карты" x={1200} y={300} size={24} accent="#ff6060" />
@@ -141,6 +144,8 @@ const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Sky theme={th} t={t} id="s5sky" />
       <Skyline theme={th} t={t} shift={-t * 3} />
       <Rooftop theme={th} t={t} />
+      <Stickman pose={pose1} look={STICK_SO3} id="s5a" />
+      <Stickman pose={pose2} look={STICK_SO3} id="s5b" />
       <NumberCard f={f} fps={fps} at={IS.street} value="Общаются лично" caption="Люди" x={1100} y={250} size={24} accent="#66ff88" />
       <NumberCard f={f} fps={fps} at={IS.kids} value="Играют на улице" caption="Дети" x={1100} y={350} size={24} accent="#66ff88" />
     </g>
@@ -159,6 +164,7 @@ const S6: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Sky theme={th} t={t} id="s6sky" />
       <Skyline theme={th} t={t} shift={-t * 2} />
       <Rooftop theme={th} t={t} />
+      <Stickman pose={pose} look={STICK_SO3} id="s6" />
       
       <TitleCard f={f} fps={fps} at={IS.end} title="Может быть," kicker="мы слишком зависимы?" />
     </g>
