@@ -13,6 +13,7 @@ import {TimeTravel, IS_FPS as TT_FPS, IS_SEC as TT_SEC} from './toon/episodes/Ti
 import {TestImg} from './toon/episodes/TestImg';
 import {TimeTravel2, IS_FPS as TT2_FPS, IS_SEC as TT2_SEC} from './toon/episodes/TimeTravel2';
 import {TimeTravel3, IS_FPS as TT3_FPS, IS_SEC as TT3_SEC} from './toon/episodes/TimeTravel3';
+import {TimeTravel4, IS_FPS as TT4_FPS, IS_SEC as TT4_SEC} from './toon/episodes/TimeTravel4';
 import {SkyTest} from './toon/episodes/SkyTest';
 
 export const Root: React.FC = () => (
@@ -31,5 +32,6 @@ export const Root: React.FC = () => (
     <Composition id="TestImg" component={TestImg} width={1920} height={1080} fps={30} durationInFrames={30} />
     <Composition id="TimeTravel2" component={TimeTravel2} width={1920} height={1080} fps={TT2_FPS} durationInFrames={Math.round(TT2_SEC * TT2_FPS)} />
     <Composition id="TimeTravel3" component={TimeTravel3} width={1920} height={1080} fps={TT3_FPS} durationInFrames={Math.round(TT3_SEC * TT3_FPS)} />
+    <Composition id="TimeTravel4" component={TimeTravel4} width={1920} height={1080} fps={TT4_FPS} durationInFrames={Math.round(TT4_SEC * TT4_FPS)} />
   </>
 );
