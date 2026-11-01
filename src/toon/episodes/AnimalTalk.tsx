@@ -204,5 +204,3 @@ export const AnimalTalk: React.FC = () => {
     </AbsoluteFill>
   );
 };
-ENDOFFILE
-echo "AnimalTalk.tsx created"
