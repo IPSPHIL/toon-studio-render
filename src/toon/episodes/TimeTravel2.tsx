@@ -74,5 +74,3 @@ export const TimeTravel2: React.FC = () => {
     </AbsoluteFill>
   );
 };
-EOF
-echo "TimeTravel2.tsx created"
