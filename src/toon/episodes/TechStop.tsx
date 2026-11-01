@@ -59,7 +59,7 @@ const S1: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <NumberCard f={f} fps={fps} at={IS.phone} value="Нет сети" caption="Телефон" x={1200} y={300} size={28} accent="#ff6060" />
+      <NumberCard f={f} fps={fps} at={IS.phone} value="No signal" caption="Phone" x={1200} y={300} size={28} accent="#ff6060" />
     </g>
   );
 };
@@ -77,8 +77,8 @@ const S2: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <NumberCard f={f} fps={fps} at={IS.news} value="Пусто" caption="Новости" x={1200} y={250} size={28} accent="#ffaa44" />
-      <NumberCard f={f} fps={fps} at={IS.social} value="Пусто" caption="Соцсети" x={1200} y={350} size={28} accent="#ffaa44" />
+      <NumberCard f={f} fps={fps} at={IS.news} value="Empty" caption="News" x={1200} y={250} size={28} accent="#ffaa44" />
+      <NumberCard f={f} fps={fps} at={IS.social} value="Empty" caption="Social" x={1200} y={350} size={28} accent="#ffaa44" />
     </g>
   );
 };
@@ -96,7 +96,7 @@ const S3: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <TitleCard f={f} fps={fps} at={IS.concept} title="ИНТЕРНЕТ" kicker="ИСЧЕЗ НАВСЕГДА" />
+      <TitleCard f={f} fps={fps} at={IS.concept} title="TECH" kicker="DOWN FOREVER" />
     </g>
   );
 };
@@ -114,9 +114,9 @@ const S4: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <NumberCard f={f} fps={fps} at={IS.money} value="Ошибка" caption="Банкоматы" x={1200} y={200} size={24} accent="#ff6060" />
-      <NumberCard f={f} fps={fps} at={IS.money + 1} value="Не работают" caption="Карты" x={1200} y={300} size={24} accent="#ff6060" />
-      <NumberCard f={f} fps={fps} at={IS.money + 2} value="Нет доступа" caption="Деньги" x={1200} y={400} size={24} accent="#ff6060" />
+      <NumberCard f={f} fps={fps} at={IS.money} value="Error" caption="ATMs" x={1200} y={200} size={24} accent="#ff6060" />
+      <NumberCard f={f} fps={fps} at={IS.money + 1} value="Failed" caption="Cards" x={1200} y={300} size={24} accent="#ff6060" />
+      <NumberCard f={f} fps={fps} at={IS.money + 2} value="Locked" caption="Money" x={1200} y={400} size={24} accent="#ff6060" />
     </g>
   );
 };
@@ -138,8 +138,8 @@ const S5: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body1} x={at1.x} y={at1.y} scale={s} face={face1 as any} t={t} />
       <HumanChar pose={body2} x={at2.x} y={at2.y} scale={s} face={face2 as any} t={t} />
-      <NumberCard f={f} fps={fps} at={IS.street} value="Общаются лично" caption="Люди" x={1100} y={250} size={24} accent="#66ff88" />
-      <NumberCard f={f} fps={fps} at={IS.kids} value="Играют на улице" caption="Дети" x={1100} y={350} size={24} accent="#66ff88" />
+      <NumberCard f={f} fps={fps} at={IS.street} value="Talking" caption="People" x={1100} y={250} size={24} accent="#66ff88" />
+      <NumberCard f={f} fps={fps} at={IS.kids} value="Playing" caption="Children" x={1100} y={350} size={24} accent="#66ff88" />
     </g>
   );
 };
@@ -157,7 +157,7 @@ const S6: React.FC<{t: number; f: number; fps: number}> = ({t, f, fps}) => {
       <Rooftop theme={th} t={t} />
       <HumanChar pose={body} x={at.x} y={at.y} scale={at.s} face={face as any} t={t} />
       
-      <TitleCard f={f} fps={fps} at={IS.end} title="Может быть," kicker="мы слишком зависимы?" />
+      <TitleCard f={f} fps={fps} at={IS.end} title="Maybe we" kicker="were too dependent?" />
     </g>
   );
 };
