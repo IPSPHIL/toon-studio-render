@@ -1,0 +1,537 @@
+{
+  "voice": "male",
+  "total": 49.55,
+  "lines": [
+    {
+      "text": "What if you woke up tomorrow",
+      "start": 0.0,
+      "end": 2.274,
+      "words": [
+        {
+          "w": "What",
+          "t": 0.0
+        },
+        {
+          "w": "if",
+          "t": 0.3
+        },
+        {
+          "w": "you",
+          "t": 0.6
+        },
+        {
+          "w": "woke",
+          "t": 0.9
+        },
+        {
+          "w": "up",
+          "t": 1.2
+        },
+        {
+          "w": "tomorrow",
+          "t": 1.5
+        }
+      ]
+    },
+    {
+      "text": "and animals could talk.",
+      "start": 2.274,
+      "end": 4.393,
+      "words": [
+        {
+          "w": "and",
+          "t": 2.274
+        },
+        {
+          "w": "animals",
+          "t": 2.574
+        },
+        {
+          "w": "could",
+          "t": 2.874
+        },
+        {
+          "w": "talk.",
+          "t": 3.174
+        }
+      ]
+    },
+    {
+      "text": "Not just mimic sounds.",
+      "start": 4.393,
+      "end": 6.678,
+      "words": [
+        {
+          "w": "Not",
+          "t": 4.393
+        },
+        {
+          "w": "just",
+          "t": 4.693
+        },
+        {
+          "w": "mimic",
+          "t": 4.993
+        },
+        {
+          "w": "sounds.",
+          "t": 5.293
+        }
+      ]
+    },
+    {
+      "text": "Real words.",
+      "start": 6.678,
+      "end": 8.297,
+      "words": [
+        {
+          "w": "Real",
+          "t": 6.678
+        },
+        {
+          "w": "words.",
+          "t": 6.978
+        }
+      ]
+    },
+    {
+      "text": "Real thoughts.",
+      "start": 8.297,
+      "end": 9.921,
+      "words": [
+        {
+          "w": "Real",
+          "t": 8.297
+        },
+        {
+          "w": "thoughts.",
+          "t": 8.597
+        }
+      ]
+    },
+    {
+      "text": "Your dog looks at you",
+      "start": 9.921,
+      "end": 11.935,
+      "words": [
+        {
+          "w": "Your",
+          "t": 9.921
+        },
+        {
+          "w": "dog",
+          "t": 10.221
+        },
+        {
+          "w": "looks",
+          "t": 10.521
+        },
+        {
+          "w": "at",
+          "t": 10.821
+        },
+        {
+          "w": "you",
+          "t": 11.121
+        }
+      ]
+    },
+    {
+      "text": "and says good morning.",
+      "start": 11.935,
+      "end": 13.955,
+      "words": [
+        {
+          "w": "and",
+          "t": 11.935
+        },
+        {
+          "w": "says",
+          "t": 12.235
+        },
+        {
+          "w": "good",
+          "t": 12.535
+        },
+        {
+          "w": "morning.",
+          "t": 12.835
+        }
+      ]
+    },
+    {
+      "text": "Your cat judges your outfit.",
+      "start": 13.955,
+      "end": 16.309,
+      "words": [
+        {
+          "w": "Your",
+          "t": 13.955
+        },
+        {
+          "w": "cat",
+          "t": 14.255
+        },
+        {
+          "w": "judges",
+          "t": 14.555
+        },
+        {
+          "w": "your",
+          "t": 14.855
+        },
+        {
+          "w": "outfit.",
+          "t": 15.155
+        }
+      ]
+    },
+    {
+      "text": "A pigeon on the street",
+      "start": 16.309,
+      "end": 18.333,
+      "words": [
+        {
+          "w": "A",
+          "t": 16.309
+        },
+        {
+          "w": "pigeon",
+          "t": 16.609
+        },
+        {
+          "w": "on",
+          "t": 16.909
+        },
+        {
+          "w": "the",
+          "t": 17.209
+        },
+        {
+          "w": "street",
+          "t": 17.509
+        }
+      ]
+    },
+    {
+      "text": "asks for directions.",
+      "start": 18.333,
+      "end": 20.447,
+      "words": [
+        {
+          "w": "asks",
+          "t": 18.333
+        },
+        {
+          "w": "for",
+          "t": 18.633
+        },
+        {
+          "w": "directions.",
+          "t": 18.933
+        }
+      ]
+    },
+    {
+      "text": "Chaos.",
+      "start": 20.447,
+      "end": 21.752,
+      "words": [
+        {
+          "w": "Chaos.",
+          "t": 20.447
+        }
+      ]
+    },
+    {
+      "text": "Absolute chaos.",
+      "start": 21.752,
+      "end": 23.591,
+      "words": [
+        {
+          "w": "Absolute",
+          "t": 21.752
+        },
+        {
+          "w": "chaos.",
+          "t": 22.052
+        }
+      ]
+    },
+    {
+      "text": "Animals have opinions.",
+      "start": 23.591,
+      "end": 25.74,
+      "words": [
+        {
+          "w": "Animals",
+          "t": 23.591
+        },
+        {
+          "w": "have",
+          "t": 23.891
+        },
+        {
+          "w": "opinions.",
+          "t": 24.191
+        }
+      ]
+    },
+    {
+      "text": "Cows refuse to be milked.",
+      "start": 25.74,
+      "end": 28.119,
+      "words": [
+        {
+          "w": "Cows",
+          "t": 25.74
+        },
+        {
+          "w": "refuse",
+          "t": 26.04
+        },
+        {
+          "w": "to",
+          "t": 26.34
+        },
+        {
+          "w": "be",
+          "t": 26.64
+        },
+        {
+          "w": "milked.",
+          "t": 26.94
+        }
+      ]
+    },
+    {
+      "text": "Pigs demand better food.",
+      "start": 28.119,
+      "end": 30.408,
+      "words": [
+        {
+          "w": "Pigs",
+          "t": 28.119
+        },
+        {
+          "w": "demand",
+          "t": 28.419
+        },
+        {
+          "w": "better",
+          "t": 28.719
+        },
+        {
+          "w": "food.",
+          "t": 29.019
+        }
+      ]
+    },
+    {
+      "text": "Birds file noise complaints.",
+      "start": 30.408,
+      "end": 33.012,
+      "words": [
+        {
+          "w": "Birds",
+          "t": 30.408
+        },
+        {
+          "w": "file",
+          "t": 30.708
+        },
+        {
+          "w": "noise",
+          "t": 31.008
+        },
+        {
+          "w": "complaints.",
+          "t": 31.308
+        }
+      ]
+    },
+    {
+      "text": "Humans are no longer alone",
+      "start": 33.012,
+      "end": 35.506,
+      "words": [
+        {
+          "w": "Humans",
+          "t": 33.012
+        },
+        {
+          "w": "are",
+          "t": 33.312
+        },
+        {
+          "w": "no",
+          "t": 33.612
+        },
+        {
+          "w": "longer",
+          "t": 33.912
+        },
+        {
+          "w": "alone",
+          "t": 34.212
+        }
+      ]
+    },
+    {
+      "text": "at the top.",
+      "start": 35.506,
+      "end": 37.016,
+      "words": [
+        {
+          "w": "at",
+          "t": 35.506
+        },
+        {
+          "w": "the",
+          "t": 35.806
+        },
+        {
+          "w": "top.",
+          "t": 36.106
+        }
+      ]
+    },
+    {
+      "text": "We would have to negotiate.",
+      "start": 37.016,
+      "end": 39.27,
+      "words": [
+        {
+          "w": "We",
+          "t": 37.016
+        },
+        {
+          "w": "would",
+          "t": 37.316
+        },
+        {
+          "w": "have",
+          "t": 37.616
+        },
+        {
+          "w": "to",
+          "t": 37.916
+        },
+        {
+          "w": "negotiate.",
+          "t": 38.216
+        }
+      ]
+    },
+    {
+      "text": "Share the planet.",
+      "start": 39.27,
+      "end": 41.019,
+      "words": [
+        {
+          "w": "Share",
+          "t": 39.27
+        },
+        {
+          "w": "the",
+          "t": 39.57
+        },
+        {
+          "w": "planet.",
+          "t": 39.87
+        }
+      ]
+    },
+    {
+      "text": "Listen.",
+      "start": 41.019,
+      "end": 42.364,
+      "words": [
+        {
+          "w": "Listen.",
+          "t": 41.019
+        }
+      ]
+    },
+    {
+      "text": "Really listen.",
+      "start": 42.364,
+      "end": 44.008,
+      "words": [
+        {
+          "w": "Really",
+          "t": 42.364
+        },
+        {
+          "w": "listen.",
+          "t": 42.664
+        }
+      ]
+    },
+    {
+      "text": "Maybe we would learn",
+      "start": 44.008,
+      "end": 45.922,
+      "words": [
+        {
+          "w": "Maybe",
+          "t": 44.008
+        },
+        {
+          "w": "we",
+          "t": 44.308
+        },
+        {
+          "w": "would",
+          "t": 44.608
+        },
+        {
+          "w": "learn",
+          "t": 44.908
+        }
+      ]
+    },
+    {
+      "text": "to be kinder.",
+      "start": 45.922,
+      "end": 47.456,
+      "words": [
+        {
+          "w": "to",
+          "t": 45.922
+        },
+        {
+          "w": "be",
+          "t": 46.222
+        },
+        {
+          "w": "kinder.",
+          "t": 46.522
+        }
+      ]
+    },
+    {
+      "text": "To all living things.",
+      "start": 47.456,
+      "end": 49.545,
+      "words": [
+        {
+          "w": "To",
+          "t": 47.456
+        },
+        {
+          "w": "all",
+          "t": 47.756
+        },
+        {
+          "w": "living",
+          "t": 48.056
+        },
+        {
+          "w": "things.",
+          "t": 48.356
+        }
+      ]
+    }
+  ]
+}
