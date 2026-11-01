@@ -205,5 +205,3 @@ export const GravityGone: React.FC = () => {
     </AbsoluteFill>
   );
 };
-ENDOFFILE
-echo "GravityGone.tsx created"
