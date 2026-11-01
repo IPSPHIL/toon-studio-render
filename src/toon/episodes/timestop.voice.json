@@ -1,0 +1,555 @@
+{
+  "voice": "male",
+  "total": 50.85,
+  "lines": [
+    {
+      "text": "What if time stopped.",
+      "start": 0.0,
+      "end": 2.024,
+      "words": [
+        {
+          "w": "What",
+          "t": 0.0
+        },
+        {
+          "w": "if",
+          "t": 0.3
+        },
+        {
+          "w": "time",
+          "t": 0.6
+        },
+        {
+          "w": "stopped.",
+          "t": 0.9
+        }
+      ]
+    },
+    {
+      "text": "Everything freezes.",
+      "start": 2.024,
+      "end": 3.908,
+      "words": [
+        {
+          "w": "Everything",
+          "t": 2.024
+        },
+        {
+          "w": "freezes.",
+          "t": 2.324
+        }
+      ]
+    },
+    {
+      "text": "A bird mid-flight.",
+      "start": 3.908,
+      "end": 5.718,
+      "words": [
+        {
+          "w": "A",
+          "t": 3.908
+        },
+        {
+          "w": "bird",
+          "t": 4.208
+        },
+        {
+          "w": "mid-flight.",
+          "t": 4.508
+        }
+      ]
+    },
+    {
+      "text": "A drop of rain.",
+      "start": 5.718,
+      "end": 7.522,
+      "words": [
+        {
+          "w": "A",
+          "t": 5.718
+        },
+        {
+          "w": "drop",
+          "t": 6.018
+        },
+        {
+          "w": "of",
+          "t": 6.318
+        },
+        {
+          "w": "rain.",
+          "t": 6.618
+        }
+      ]
+    },
+    {
+      "text": "Suspended in air.",
+      "start": 7.522,
+      "end": 9.476,
+      "words": [
+        {
+          "w": "Suspended",
+          "t": 7.522
+        },
+        {
+          "w": "in",
+          "t": 7.822
+        },
+        {
+          "w": "air.",
+          "t": 8.122
+        }
+      ]
+    },
+    {
+      "text": "People frozen mid-step.",
+      "start": 9.476,
+      "end": 11.795,
+      "words": [
+        {
+          "w": "People",
+          "t": 9.476
+        },
+        {
+          "w": "frozen",
+          "t": 9.776
+        },
+        {
+          "w": "mid-step.",
+          "t": 10.076
+        }
+      ]
+    },
+    {
+      "text": "Mid-laugh.",
+      "start": 11.795,
+      "end": 13.295,
+      "words": [
+        {
+          "w": "Mid-laugh.",
+          "t": 11.795
+        }
+      ]
+    },
+    {
+      "text": "Mid-tear.",
+      "start": 13.295,
+      "end": 14.739,
+      "words": [
+        {
+          "w": "Mid-tear.",
+          "t": 13.295
+        }
+      ]
+    },
+    {
+      "text": "The world becomes a painting.",
+      "start": 14.739,
+      "end": 17.063,
+      "words": [
+        {
+          "w": "The",
+          "t": 14.739
+        },
+        {
+          "w": "world",
+          "t": 15.039
+        },
+        {
+          "w": "becomes",
+          "t": 15.339
+        },
+        {
+          "w": "a",
+          "t": 15.639
+        },
+        {
+          "w": "painting.",
+          "t": 15.939
+        }
+      ]
+    },
+    {
+      "text": "A photograph of a moment.",
+      "start": 17.063,
+      "end": 19.277,
+      "words": [
+        {
+          "w": "A",
+          "t": 17.063
+        },
+        {
+          "w": "photograph",
+          "t": 17.363
+        },
+        {
+          "w": "of",
+          "t": 17.663
+        },
+        {
+          "w": "a",
+          "t": 17.963
+        },
+        {
+          "w": "moment.",
+          "t": 18.263
+        }
+      ]
+    },
+    {
+      "text": "You could walk through it.",
+      "start": 19.277,
+      "end": 21.217,
+      "words": [
+        {
+          "w": "You",
+          "t": 19.277
+        },
+        {
+          "w": "could",
+          "t": 19.577
+        },
+        {
+          "w": "walk",
+          "t": 19.877
+        },
+        {
+          "w": "through",
+          "t": 20.177
+        },
+        {
+          "w": "it.",
+          "t": 20.477
+        }
+      ]
+    },
+    {
+      "text": "Touch the frozen rain.",
+      "start": 21.217,
+      "end": 23.231,
+      "words": [
+        {
+          "w": "Touch",
+          "t": 21.217
+        },
+        {
+          "w": "the",
+          "t": 21.517
+        },
+        {
+          "w": "frozen",
+          "t": 21.817
+        },
+        {
+          "w": "rain.",
+          "t": 22.117
+        }
+      ]
+    },
+    {
+      "text": "Look at faces.",
+      "start": 23.231,
+      "end": 24.995,
+      "words": [
+        {
+          "w": "Look",
+          "t": 23.231
+        },
+        {
+          "w": "at",
+          "t": 23.531
+        },
+        {
+          "w": "faces.",
+          "t": 23.831
+        }
+      ]
+    },
+    {
+      "text": "Frozen in joy.",
+      "start": 24.995,
+      "end": 26.729,
+      "words": [
+        {
+          "w": "Frozen",
+          "t": 24.995
+        },
+        {
+          "w": "in",
+          "t": 25.295
+        },
+        {
+          "w": "joy.",
+          "t": 25.595
+        }
+      ]
+    },
+    {
+      "text": "Frozen in pain.",
+      "start": 26.729,
+      "end": 28.608,
+      "words": [
+        {
+          "w": "Frozen",
+          "t": 26.729
+        },
+        {
+          "w": "in",
+          "t": 27.029
+        },
+        {
+          "w": "pain.",
+          "t": 27.329
+        }
+      ]
+    },
+    {
+      "text": "You would see",
+      "start": 28.608,
+      "end": 30.083,
+      "words": [
+        {
+          "w": "You",
+          "t": 28.608
+        },
+        {
+          "w": "would",
+          "t": 28.908
+        },
+        {
+          "w": "see",
+          "t": 29.208
+        }
+      ]
+    },
+    {
+      "text": "how beautiful",
+      "start": 30.083,
+      "end": 31.717,
+      "words": [
+        {
+          "w": "how",
+          "t": 30.083
+        },
+        {
+          "w": "beautiful",
+          "t": 30.383
+        }
+      ]
+    },
+    {
+      "text": "a single moment is.",
+      "start": 31.717,
+      "end": 33.801,
+      "words": [
+        {
+          "w": "a",
+          "t": 31.717
+        },
+        {
+          "w": "single",
+          "t": 32.017
+        },
+        {
+          "w": "moment",
+          "t": 32.317
+        },
+        {
+          "w": "is.",
+          "t": 32.617
+        }
+      ]
+    },
+    {
+      "text": "How precious.",
+      "start": 33.801,
+      "end": 35.425,
+      "words": [
+        {
+          "w": "How",
+          "t": 33.801
+        },
+        {
+          "w": "precious.",
+          "t": 34.101
+        }
+      ]
+    },
+    {
+      "text": "How fragile.",
+      "start": 35.425,
+      "end": 37.015,
+      "words": [
+        {
+          "w": "How",
+          "t": 35.425
+        },
+        {
+          "w": "fragile.",
+          "t": 35.725
+        }
+      ]
+    },
+    {
+      "text": "Time is not our enemy.",
+      "start": 37.015,
+      "end": 39.129,
+      "words": [
+        {
+          "w": "Time",
+          "t": 37.015
+        },
+        {
+          "w": "is",
+          "t": 37.315
+        },
+        {
+          "w": "not",
+          "t": 37.615
+        },
+        {
+          "w": "our",
+          "t": 37.915
+        },
+        {
+          "w": "enemy.",
+          "t": 38.215
+        }
+      ]
+    },
+    {
+      "text": "Time is our canvas.",
+      "start": 39.129,
+      "end": 41.163,
+      "words": [
+        {
+          "w": "Time",
+          "t": 39.129
+        },
+        {
+          "w": "is",
+          "t": 39.429
+        },
+        {
+          "w": "our",
+          "t": 39.729
+        },
+        {
+          "w": "canvas.",
+          "t": 40.029
+        }
+      ]
+    },
+    {
+      "text": "Every second is a stroke.",
+      "start": 41.163,
+      "end": 43.472,
+      "words": [
+        {
+          "w": "Every",
+          "t": 41.163
+        },
+        {
+          "w": "second",
+          "t": 41.463
+        },
+        {
+          "w": "is",
+          "t": 41.763
+        },
+        {
+          "w": "a",
+          "t": 42.063
+        },
+        {
+          "w": "stroke.",
+          "t": 42.363
+        }
+      ]
+    },
+    {
+      "text": "Every breath is a color.",
+      "start": 43.472,
+      "end": 45.607,
+      "words": [
+        {
+          "w": "Every",
+          "t": 43.472
+        },
+        {
+          "w": "breath",
+          "t": 43.772
+        },
+        {
+          "w": "is",
+          "t": 44.072
+        },
+        {
+          "w": "a",
+          "t": 44.372
+        },
+        {
+          "w": "color.",
+          "t": 44.672
+        }
+      ]
+    },
+    {
+      "text": "Time stopped.",
+      "start": 45.607,
+      "end": 47.281,
+      "words": [
+        {
+          "w": "Time",
+          "t": 45.607
+        },
+        {
+          "w": "stopped.",
+          "t": 45.907
+        }
+      ]
+    },
+    {
+      "text": "And you finally see.",
+      "start": 47.281,
+      "end": 49.22,
+      "words": [
+        {
+          "w": "And",
+          "t": 47.281
+        },
+        {
+          "w": "you",
+          "t": 47.581
+        },
+        {
+          "w": "finally",
+          "t": 47.881
+        },
+        {
+          "w": "see.",
+          "t": 48.181
+        }
+      ]
+    },
+    {
+      "text": "Life is art.",
+      "start": 49.22,
+      "end": 50.854,
+      "words": [
+        {
+          "w": "Life",
+          "t": 49.22
+        },
+        {
+          "w": "is",
+          "t": 49.52
+        },
+        {
+          "w": "art.",
+          "t": 49.82
+        }
+      ]
+    }
+  ]
+}
