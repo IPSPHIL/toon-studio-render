@@ -1,0 +1,522 @@
+{
+  "voice": "male",
+  "total": 54.99,
+  "lines": [
+    {
+      "text": "Tax Loss Harvesting in 60 Seconds.",
+      "start": 0.0,
+      "end": 3.349,
+      "words": [
+        {
+          "w": "Tax",
+          "t": 0.0
+        },
+        {
+          "w": "Loss",
+          "t": 0.3
+        },
+        {
+          "w": "Harvesting",
+          "t": 0.6
+        },
+        {
+          "w": "in",
+          "t": 0.9
+        },
+        {
+          "w": "60",
+          "t": 1.2
+        },
+        {
+          "w": "Seconds.",
+          "t": 1.5
+        }
+      ]
+    },
+    {
+      "text": "What is it?",
+      "start": 3.349,
+      "end": 4.778,
+      "words": [
+        {
+          "w": "What",
+          "t": 3.349
+        },
+        {
+          "w": "is",
+          "t": 3.649
+        },
+        {
+          "w": "it?",
+          "t": 3.949
+        }
+      ]
+    },
+    {
+      "text": "You sell investments that lost value.",
+      "start": 4.778,
+      "end": 7.807,
+      "words": [
+        {
+          "w": "You",
+          "t": 4.778
+        },
+        {
+          "w": "sell",
+          "t": 5.078
+        },
+        {
+          "w": "investments",
+          "t": 5.378
+        },
+        {
+          "w": "that",
+          "t": 5.678
+        },
+        {
+          "w": "lost",
+          "t": 5.978
+        },
+        {
+          "w": "value.",
+          "t": 6.278
+        }
+      ]
+    },
+    {
+      "text": "This creates a realized loss.",
+      "start": 7.807,
+      "end": 10.406,
+      "words": [
+        {
+          "w": "This",
+          "t": 7.807
+        },
+        {
+          "w": "creates",
+          "t": 8.107
+        },
+        {
+          "w": "a",
+          "t": 8.407
+        },
+        {
+          "w": "realized",
+          "t": 8.707
+        },
+        {
+          "w": "loss.",
+          "t": 9.007
+        }
+      ]
+    },
+    {
+      "text": "That loss offsets your capital gains.",
+      "start": 10.406,
+      "end": 13.495,
+      "words": [
+        {
+          "w": "That",
+          "t": 10.406
+        },
+        {
+          "w": "loss",
+          "t": 10.706
+        },
+        {
+          "w": "offsets",
+          "t": 11.006
+        },
+        {
+          "w": "your",
+          "t": 11.306
+        },
+        {
+          "w": "capital",
+          "t": 11.606
+        },
+        {
+          "w": "gains.",
+          "t": 11.906
+        }
+      ]
+    },
+    {
+      "text": "Lower gains mean lower taxes.",
+      "start": 13.495,
+      "end": 16.214,
+      "words": [
+        {
+          "w": "Lower",
+          "t": 13.495
+        },
+        {
+          "w": "gains",
+          "t": 13.795
+        },
+        {
+          "w": "mean",
+          "t": 14.095
+        },
+        {
+          "w": "lower",
+          "t": 14.395
+        },
+        {
+          "w": "taxes.",
+          "t": 14.695
+        }
+      ]
+    },
+    {
+      "text": "You save money.",
+      "start": 16.214,
+      "end": 17.924,
+      "words": [
+        {
+          "w": "You",
+          "t": 16.214
+        },
+        {
+          "w": "save",
+          "t": 16.514
+        },
+        {
+          "w": "money.",
+          "t": 16.814
+        }
+      ]
+    },
+    {
+      "text": "But you stay invested.",
+      "start": 17.924,
+      "end": 20.088,
+      "words": [
+        {
+          "w": "But",
+          "t": 17.924
+        },
+        {
+          "w": "you",
+          "t": 18.224
+        },
+        {
+          "w": "stay",
+          "t": 18.524
+        },
+        {
+          "w": "invested.",
+          "t": 18.824
+        }
+      ]
+    },
+    {
+      "text": "Buy a similar asset.",
+      "start": 20.088,
+      "end": 22.177,
+      "words": [
+        {
+          "w": "Buy",
+          "t": 20.088
+        },
+        {
+          "w": "a",
+          "t": 20.388
+        },
+        {
+          "w": "similar",
+          "t": 20.688
+        },
+        {
+          "w": "asset.",
+          "t": 20.988
+        }
+      ]
+    },
+    {
+      "text": "Not identical.",
+      "start": 22.177,
+      "end": 23.911,
+      "words": [
+        {
+          "w": "Not",
+          "t": 22.177
+        },
+        {
+          "w": "identical.",
+          "t": 22.477
+        }
+      ]
+    },
+    {
+      "text": "IRS wash sale rule.",
+      "start": 23.911,
+      "end": 26.311,
+      "words": [
+        {
+          "w": "IRS",
+          "t": 23.911
+        },
+        {
+          "w": "wash",
+          "t": 24.211
+        },
+        {
+          "w": "sale",
+          "t": 24.511
+        },
+        {
+          "w": "rule.",
+          "t": 24.811
+        }
+      ]
+    },
+    {
+      "text": "30 days before or after.",
+      "start": 26.311,
+      "end": 28.78,
+      "words": [
+        {
+          "w": "30",
+          "t": 26.311
+        },
+        {
+          "w": "days",
+          "t": 26.611
+        },
+        {
+          "w": "before",
+          "t": 26.911
+        },
+        {
+          "w": "or",
+          "t": 27.211
+        },
+        {
+          "w": "after.",
+          "t": 27.511
+        }
+      ]
+    },
+    {
+      "text": "No identical security.",
+      "start": 28.78,
+      "end": 31.094,
+      "words": [
+        {
+          "w": "No",
+          "t": 28.78
+        },
+        {
+          "w": "identical",
+          "t": 29.08
+        },
+        {
+          "w": "security.",
+          "t": 29.38
+        }
+      ]
+    },
+    {
+      "text": "Simple example.",
+      "start": 31.094,
+      "end": 32.978,
+      "words": [
+        {
+          "w": "Simple",
+          "t": 31.094
+        },
+        {
+          "w": "example.",
+          "t": 31.394
+        }
+      ]
+    },
+    {
+      "text": "Stock drops 10000 dollars.",
+      "start": 32.978,
+      "end": 35.857,
+      "words": [
+        {
+          "w": "Stock",
+          "t": 32.978
+        },
+        {
+          "w": "drops",
+          "t": 33.278
+        },
+        {
+          "w": "10000",
+          "t": 33.578
+        },
+        {
+          "w": "dollars.",
+          "t": 33.878
+        }
+      ]
+    },
+    {
+      "text": "Sell it. Loss realized.",
+      "start": 35.857,
+      "end": 39.156,
+      "words": [
+        {
+          "w": "Sell",
+          "t": 35.857
+        },
+        {
+          "w": "it.",
+          "t": 36.157
+        },
+        {
+          "w": "Loss",
+          "t": 36.457
+        },
+        {
+          "w": "realized.",
+          "t": 36.757
+        }
+      ]
+    },
+    {
+      "text": "Buy similar ETF.",
+      "start": 39.156,
+      "end": 41.4,
+      "words": [
+        {
+          "w": "Buy",
+          "t": 39.156
+        },
+        {
+          "w": "similar",
+          "t": 39.456
+        },
+        {
+          "w": "ETF.",
+          "t": 39.756
+        }
+      ]
+    },
+    {
+      "text": "Offset 10000 gain.",
+      "start": 41.4,
+      "end": 43.814,
+      "words": [
+        {
+          "w": "Offset",
+          "t": 41.4
+        },
+        {
+          "w": "10000",
+          "t": 41.7
+        },
+        {
+          "w": "gain.",
+          "t": 42.0
+        }
+      ]
+    },
+    {
+      "text": "Tax saved.",
+      "start": 43.814,
+      "end": 45.429,
+      "words": [
+        {
+          "w": "Tax",
+          "t": 43.814
+        },
+        {
+          "w": "saved.",
+          "t": 44.114
+        }
+      ]
+    },
+    {
+      "text": "Repeat yearly.",
+      "start": 45.429,
+      "end": 47.153,
+      "words": [
+        {
+          "w": "Repeat",
+          "t": 45.429
+        },
+        {
+          "w": "yearly.",
+          "t": 45.729
+        }
+      ]
+    },
+    {
+      "text": "Harvest losses.",
+      "start": 47.153,
+      "end": 49.052,
+      "words": [
+        {
+          "w": "Harvest",
+          "t": 47.153
+        },
+        {
+          "w": "losses.",
+          "t": 47.453
+        }
+      ]
+    },
+    {
+      "text": "Reduce taxes.",
+      "start": 49.052,
+      "end": 50.892,
+      "words": [
+        {
+          "w": "Reduce",
+          "t": 49.052
+        },
+        {
+          "w": "taxes.",
+          "t": 49.352
+        }
+      ]
+    },
+    {
+      "text": "Keep growing.",
+      "start": 50.892,
+      "end": 52.441,
+      "words": [
+        {
+          "w": "Keep",
+          "t": 50.892
+        },
+        {
+          "w": "growing.",
+          "t": 51.192
+        }
+      ]
+    },
+    {
+      "text": "That is Tax Loss Harvesting.",
+      "start": 52.441,
+      "end": 54.99,
+      "words": [
+        {
+          "w": "That",
+          "t": 52.441
+        },
+        {
+          "w": "is",
+          "t": 52.741
+        },
+        {
+          "w": "Tax",
+          "t": 53.041
+        },
+        {
+          "w": "Loss",
+          "t": 53.341
+        },
+        {
+          "w": "Harvesting.",
+          "t": 53.641
+        }
+      ]
+    }
+  ]
+}
