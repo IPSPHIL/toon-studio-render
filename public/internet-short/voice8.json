@@ -1,0 +1,494 @@
+{
+  "voice": "male",
+  "total": 41.64,
+  "lines": [
+    {
+      "text": "What if you could time travel.",
+      "start": 0.0,
+      "end": 2.309,
+      "words": [
+        {
+          "w": "What",
+          "t": 0.0
+        },
+        {
+          "w": "if",
+          "t": 0.3
+        },
+        {
+          "w": "you",
+          "t": 0.6
+        },
+        {
+          "w": "could",
+          "t": 0.9
+        },
+        {
+          "w": "time",
+          "t": 1.2
+        },
+        {
+          "w": "travel.",
+          "t": 1.5
+        }
+      ]
+    },
+    {
+      "text": "Go back to ancient Egypt.",
+      "start": 2.309,
+      "end": 4.653,
+      "words": [
+        {
+          "w": "Go",
+          "t": 2.309
+        },
+        {
+          "w": "back",
+          "t": 2.609
+        },
+        {
+          "w": "to",
+          "t": 2.909
+        },
+        {
+          "w": "ancient",
+          "t": 3.209
+        },
+        {
+          "w": "Egypt.",
+          "t": 3.509
+        }
+      ]
+    },
+    {
+      "text": "See the pyramids being built.",
+      "start": 4.653,
+      "end": 7.082,
+      "words": [
+        {
+          "w": "See",
+          "t": 4.653
+        },
+        {
+          "w": "the",
+          "t": 4.953
+        },
+        {
+          "w": "pyramids",
+          "t": 5.253
+        },
+        {
+          "w": "being",
+          "t": 5.553
+        },
+        {
+          "w": "built.",
+          "t": 5.853
+        }
+      ]
+    },
+    {
+      "text": "Walk through medieval cities.",
+      "start": 7.082,
+      "end": 9.407,
+      "words": [
+        {
+          "w": "Walk",
+          "t": 7.082
+        },
+        {
+          "w": "through",
+          "t": 7.382
+        },
+        {
+          "w": "medieval",
+          "t": 7.682
+        },
+        {
+          "w": "cities.",
+          "t": 7.982
+        }
+      ]
+    },
+    {
+      "text": "Feel the industrial revolution.",
+      "start": 9.407,
+      "end": 12.066,
+      "words": [
+        {
+          "w": "Feel",
+          "t": 9.407
+        },
+        {
+          "w": "the",
+          "t": 9.707
+        },
+        {
+          "w": "industrial",
+          "t": 10.007
+        },
+        {
+          "w": "revolution.",
+          "t": 10.307
+        }
+      ]
+    },
+    {
+      "text": "Watch the world change.",
+      "start": 12.066,
+      "end": 14.18,
+      "words": [
+        {
+          "w": "Watch",
+          "t": 12.066
+        },
+        {
+          "w": "the",
+          "t": 12.366
+        },
+        {
+          "w": "world",
+          "t": 12.666
+        },
+        {
+          "w": "change.",
+          "t": 12.966
+        }
+      ]
+    },
+    {
+      "text": "Forward to the future.",
+      "start": 14.18,
+      "end": 16.204,
+      "words": [
+        {
+          "w": "Forward",
+          "t": 14.18
+        },
+        {
+          "w": "to",
+          "t": 14.48
+        },
+        {
+          "w": "the",
+          "t": 14.78
+        },
+        {
+          "w": "future.",
+          "t": 15.08
+        }
+      ]
+    },
+    {
+      "text": "Flying cars.",
+      "start": 16.204,
+      "end": 18.008,
+      "words": [
+        {
+          "w": "Flying",
+          "t": 16.204
+        },
+        {
+          "w": "cars.",
+          "t": 16.504
+        }
+      ]
+    },
+    {
+      "text": "Holograms.",
+      "start": 18.008,
+      "end": 19.733,
+      "words": [
+        {
+          "w": "Holograms.",
+          "t": 18.008
+        }
+      ]
+    },
+    {
+      "text": "Cities in the sky.",
+      "start": 19.733,
+      "end": 21.592,
+      "words": [
+        {
+          "w": "Cities",
+          "t": 19.733
+        },
+        {
+          "w": "in",
+          "t": 20.033
+        },
+        {
+          "w": "the",
+          "t": 20.333
+        },
+        {
+          "w": "sky.",
+          "t": 20.633
+        }
+      ]
+    },
+    {
+      "text": "But here is the truth.",
+      "start": 21.592,
+      "end": 23.611,
+      "words": [
+        {
+          "w": "But",
+          "t": 21.592
+        },
+        {
+          "w": "here",
+          "t": 21.892
+        },
+        {
+          "w": "is",
+          "t": 22.192
+        },
+        {
+          "w": "the",
+          "t": 22.492
+        },
+        {
+          "w": "truth.",
+          "t": 22.792
+        }
+      ]
+    },
+    {
+      "text": "Every era has beauty.",
+      "start": 23.611,
+      "end": 25.735,
+      "words": [
+        {
+          "w": "Every",
+          "t": 23.611
+        },
+        {
+          "w": "era",
+          "t": 23.911
+        },
+        {
+          "w": "has",
+          "t": 24.211
+        },
+        {
+          "w": "beauty.",
+          "t": 24.511
+        }
+      ]
+    },
+    {
+      "text": "Every era has pain.",
+      "start": 25.735,
+      "end": 27.785,
+      "words": [
+        {
+          "w": "Every",
+          "t": 25.735
+        },
+        {
+          "w": "era",
+          "t": 26.035
+        },
+        {
+          "w": "has",
+          "t": 26.335
+        },
+        {
+          "w": "pain.",
+          "t": 26.635
+        }
+      ]
+    },
+    {
+      "text": "We are not meant to live in the past.",
+      "start": 27.785,
+      "end": 30.449,
+      "words": [
+        {
+          "w": "We",
+          "t": 27.785
+        },
+        {
+          "w": "are",
+          "t": 28.085
+        },
+        {
+          "w": "not",
+          "t": 28.385
+        },
+        {
+          "w": "meant",
+          "t": 28.685
+        },
+        {
+          "w": "to",
+          "t": 28.985
+        },
+        {
+          "w": "live",
+          "t": 29.285
+        },
+        {
+          "w": "in",
+          "t": 29.585
+        },
+        {
+          "w": "the",
+          "t": 29.885
+        },
+        {
+          "w": "past.",
+          "t": 30.185
+        }
+      ]
+    },
+    {
+      "text": "We are not meant to live in the future.",
+      "start": 30.449,
+      "end": 33.098,
+      "words": [
+        {
+          "w": "We",
+          "t": 30.449
+        },
+        {
+          "w": "are",
+          "t": 30.749
+        },
+        {
+          "w": "not",
+          "t": 31.049
+        },
+        {
+          "w": "meant",
+          "t": 31.349
+        },
+        {
+          "w": "to",
+          "t": 31.649
+        },
+        {
+          "w": "live",
+          "t": 31.949
+        },
+        {
+          "w": "in",
+          "t": 32.249
+        },
+        {
+          "w": "the",
+          "t": 32.549
+        },
+        {
+          "w": "future.",
+          "t": 32.849
+        }
+      ]
+    },
+    {
+      "text": "We are meant to live now.",
+      "start": 33.098,
+      "end": 35.077,
+      "words": [
+        {
+          "w": "We",
+          "t": 33.098
+        },
+        {
+          "w": "are",
+          "t": 33.398
+        },
+        {
+          "w": "meant",
+          "t": 33.698
+        },
+        {
+          "w": "to",
+          "t": 33.998
+        },
+        {
+          "w": "live",
+          "t": 34.298
+        },
+        {
+          "w": "now.",
+          "t": 34.598
+        }
+      ]
+    },
+    {
+      "text": "This moment.",
+      "start": 35.077,
+      "end": 36.611,
+      "words": [
+        {
+          "w": "This",
+          "t": 35.077
+        },
+        {
+          "w": "moment.",
+          "t": 35.377
+        }
+      ]
+    },
+    {
+      "text": "This breath.",
+      "start": 36.611,
+      "end": 38.136,
+      "words": [
+        {
+          "w": "This",
+          "t": 36.611
+        },
+        {
+          "w": "breath.",
+          "t": 36.911
+        }
+      ]
+    },
+    {
+      "text": "This is your time.",
+      "start": 38.136,
+      "end": 39.95,
+      "words": [
+        {
+          "w": "This",
+          "t": 38.136
+        },
+        {
+          "w": "is",
+          "t": 38.436
+        },
+        {
+          "w": "your",
+          "t": 38.736
+        },
+        {
+          "w": "time.",
+          "t": 39.036
+        }
+      ]
+    },
+    {
+      "text": "Make it count.",
+      "start": 39.95,
+      "end": 41.639,
+      "words": [
+        {
+          "w": "Make",
+          "t": 39.95
+        },
+        {
+          "w": "it",
+          "t": 40.25
+        },
+        {
+          "w": "count.",
+          "t": 40.55
+        }
+      ]
+    }
+  ]
+}
