@@ -16,6 +16,7 @@ import {TimeTravel3, IS_FPS as TT3_FPS, IS_SEC as TT3_SEC} from './toon/episodes
 import {TimeTravel4, IS_FPS as TT4_FPS, IS_SEC as TT4_SEC} from './toon/episodes/TimeTravel4';
 import {TimeTravel5, IS_FPS as TT5_FPS, IS_SEC as TT5_SEC} from './toon/episodes/TimeTravel5';
 import {TaxLossHarvesting, IS_FPS as TLH_FPS, IS_SEC as TLH_SEC} from './toon/episodes/TaxLossHarvesting';
+import {TaxLossHarvesting2, IS_FPS as TLH2_FPS, IS_SEC as TLH2_SEC} from './toon/episodes/TaxLossHarvesting2';
 import {SkyTest} from './toon/episodes/SkyTest';
 
 export const Root: React.FC = () => (
@@ -37,5 +38,6 @@ export const Root: React.FC = () => (
     <Composition id="TimeTravel4" component={TimeTravel4} width={1920} height={1080} fps={TT4_FPS} durationInFrames={Math.round(TT4_SEC * TT4_FPS)} />
     <Composition id="TimeTravel5" component={TimeTravel5} width={1920} height={1080} fps={TT5_FPS} durationInFrames={Math.round(TT5_SEC * TT5_FPS)} />
     <Composition id="TaxLossHarvesting" component={TaxLossHarvesting} width={1920} height={1080} fps={TLH_FPS} durationInFrames={Math.round(TLH_SEC * TLH_FPS)} />
+    <Composition id="TaxLossHarvesting2" component={TaxLossHarvesting2} width={1920} height={1080} fps={TLH2_FPS} durationInFrames={Math.round(TLH2_SEC * TLH2_FPS)} />
   </>
 );
