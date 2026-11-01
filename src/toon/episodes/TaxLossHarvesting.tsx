@@ -119,5 +119,3 @@ export const TaxLossHarvesting: React.FC = () => {
     </AbsoluteFill>
   );
 };
-EOF
-echo "Created TaxLossHarvesting.tsx"
