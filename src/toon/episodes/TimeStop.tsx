@@ -55,6 +55,14 @@ const FrozenParticle: React.FC<{x: number; y: number; size: number; opacity: num
   <circle cx={x} cy={y} r={size} fill={color} opacity={opacity} />
 );
 
+// Thought bubble component
+const ThoughtBubble: React.FC<{x: number; y: number; text: string; opacity: number; size: number}> = ({x, y, text, opacity, size}) => (
+  <g transform={`translate(${x} ${y})`} opacity={opacity}>
+    <ellipse cx="0" cy="0" rx={size * 3} ry={size * 1.5} fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" strokeWidth="2" />
+    <text x="0" y="5" textAnchor="middle" fill="white" fontSize={size * 0.8} fontFamily="sans-serif" opacity={0.9}>{text}</text>
+  </g>
+);
+
 // Frozen raindrop component
 const FrozenDrop: React.FC<{x: number; y: number; opacity: number}> = ({x, y, opacity}) => (
   <g transform={`translate(${x} ${y})`} opacity={opacity}>
