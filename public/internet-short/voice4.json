@@ -1,0 +1,449 @@
+{
+  "voice": "male",
+  "total": 41.72,
+  "lines": [
+    {
+      "text": "What if gravity disappeared",
+      "start": 0.0,
+      "end": 2.384,
+      "words": [
+        {
+          "w": "What",
+          "t": 0.0
+        },
+        {
+          "w": "if",
+          "t": 0.3
+        },
+        {
+          "w": "gravity",
+          "t": 0.6
+        },
+        {
+          "w": "disappeared",
+          "t": 0.9
+        }
+      ]
+    },
+    {
+      "text": "for just one day.",
+      "start": 2.384,
+      "end": 4.238,
+      "words": [
+        {
+          "w": "for",
+          "t": 2.384
+        },
+        {
+          "w": "just",
+          "t": 2.684
+        },
+        {
+          "w": "one",
+          "t": 2.984
+        },
+        {
+          "w": "day.",
+          "t": 3.284
+        }
+      ]
+    },
+    {
+      "text": "Everything floats.",
+      "start": 4.238,
+      "end": 6.078,
+      "words": [
+        {
+          "w": "Everything",
+          "t": 4.238
+        },
+        {
+          "w": "floats.",
+          "t": 4.538
+        }
+      ]
+    },
+    {
+      "text": "Water drifts upward.",
+      "start": 6.078,
+      "end": 8.162,
+      "words": [
+        {
+          "w": "Water",
+          "t": 6.078
+        },
+        {
+          "w": "drifts",
+          "t": 6.378
+        },
+        {
+          "w": "upward.",
+          "t": 6.678
+        }
+      ]
+    },
+    {
+      "text": "Cars lift off the ground.",
+      "start": 8.162,
+      "end": 10.456,
+      "words": [
+        {
+          "w": "Cars",
+          "t": 8.162
+        },
+        {
+          "w": "lift",
+          "t": 8.462
+        },
+        {
+          "w": "off",
+          "t": 8.762
+        },
+        {
+          "w": "the",
+          "t": 9.062
+        },
+        {
+          "w": "ground.",
+          "t": 9.362
+        }
+      ]
+    },
+    {
+      "text": "People bump into ceilings.",
+      "start": 10.456,
+      "end": 12.95,
+      "words": [
+        {
+          "w": "People",
+          "t": 10.456
+        },
+        {
+          "w": "bump",
+          "t": 10.756
+        },
+        {
+          "w": "into",
+          "t": 11.056
+        },
+        {
+          "w": "ceilings.",
+          "t": 11.356
+        }
+      ]
+    },
+    {
+      "text": "Chaos in the streets.",
+      "start": 12.95,
+      "end": 15.074,
+      "words": [
+        {
+          "w": "Chaos",
+          "t": 12.95
+        },
+        {
+          "w": "in",
+          "t": 13.25
+        },
+        {
+          "w": "the",
+          "t": 13.55
+        },
+        {
+          "w": "streets.",
+          "t": 13.85
+        }
+      ]
+    },
+    {
+      "text": "Chaos in the sky.",
+      "start": 15.074,
+      "end": 16.964,
+      "words": [
+        {
+          "w": "Chaos",
+          "t": 15.074
+        },
+        {
+          "w": "in",
+          "t": 15.374
+        },
+        {
+          "w": "the",
+          "t": 15.674
+        },
+        {
+          "w": "sky.",
+          "t": 15.974
+        }
+      ]
+    },
+    {
+      "text": "But then something beautiful.",
+      "start": 16.964,
+      "end": 19.243,
+      "words": [
+        {
+          "w": "But",
+          "t": 16.964
+        },
+        {
+          "w": "then",
+          "t": 17.264
+        },
+        {
+          "w": "something",
+          "t": 17.564
+        },
+        {
+          "w": "beautiful.",
+          "t": 17.864
+        }
+      ]
+    },
+    {
+      "text": "Everyone is equal.",
+      "start": 19.243,
+      "end": 21.192,
+      "words": [
+        {
+          "w": "Everyone",
+          "t": 19.243
+        },
+        {
+          "w": "is",
+          "t": 19.543
+        },
+        {
+          "w": "equal.",
+          "t": 19.843
+        }
+      ]
+    },
+    {
+      "text": "No one can fall.",
+      "start": 21.192,
+      "end": 23.141,
+      "words": [
+        {
+          "w": "No",
+          "t": 21.192
+        },
+        {
+          "w": "one",
+          "t": 21.492
+        },
+        {
+          "w": "can",
+          "t": 21.792
+        },
+        {
+          "w": "fall.",
+          "t": 22.092
+        }
+      ]
+    },
+    {
+      "text": "No one can be pushed down.",
+      "start": 23.141,
+      "end": 25.55,
+      "words": [
+        {
+          "w": "No",
+          "t": 23.141
+        },
+        {
+          "w": "one",
+          "t": 23.441
+        },
+        {
+          "w": "can",
+          "t": 23.741
+        },
+        {
+          "w": "be",
+          "t": 24.041
+        },
+        {
+          "w": "pushed",
+          "t": 24.341
+        },
+        {
+          "w": "down.",
+          "t": 24.641
+        }
+      ]
+    },
+    {
+      "text": "We float together.",
+      "start": 25.55,
+      "end": 27.339,
+      "words": [
+        {
+          "w": "We",
+          "t": 25.55
+        },
+        {
+          "w": "float",
+          "t": 25.85
+        },
+        {
+          "w": "together.",
+          "t": 26.15
+        }
+      ]
+    },
+    {
+      "text": "Maybe we would finally",
+      "start": 27.339,
+      "end": 29.333,
+      "words": [
+        {
+          "w": "Maybe",
+          "t": 27.339
+        },
+        {
+          "w": "we",
+          "t": 27.639
+        },
+        {
+          "w": "would",
+          "t": 27.939
+        },
+        {
+          "w": "finally",
+          "t": 28.239
+        }
+      ]
+    },
+    {
+      "text": "see each other.",
+      "start": 29.333,
+      "end": 31.023,
+      "words": [
+        {
+          "w": "see",
+          "t": 29.333
+        },
+        {
+          "w": "each",
+          "t": 29.633
+        },
+        {
+          "w": "other.",
+          "t": 29.933
+        }
+      ]
+    },
+    {
+      "text": "Really see each other.",
+      "start": 31.023,
+      "end": 32.982,
+      "words": [
+        {
+          "w": "Really",
+          "t": 31.023
+        },
+        {
+          "w": "see",
+          "t": 31.323
+        },
+        {
+          "w": "each",
+          "t": 31.623
+        },
+        {
+          "w": "other.",
+          "t": 31.923
+        }
+      ]
+    },
+    {
+      "text": "Floating side by side.",
+      "start": 32.982,
+      "end": 35.271,
+      "words": [
+        {
+          "w": "Floating",
+          "t": 32.982
+        },
+        {
+          "w": "side",
+          "t": 33.282
+        },
+        {
+          "w": "by",
+          "t": 33.582
+        },
+        {
+          "w": "side.",
+          "t": 33.882
+        }
+      ]
+    },
+    {
+      "text": "No hierarchy.",
+      "start": 35.271,
+      "end": 37.1,
+      "words": [
+        {
+          "w": "No",
+          "t": 35.271
+        },
+        {
+          "w": "hierarchy.",
+          "t": 35.571
+        }
+      ]
+    },
+    {
+      "text": "No up or down.",
+      "start": 37.1,
+      "end": 38.935,
+      "words": [
+        {
+          "w": "No",
+          "t": 37.1
+        },
+        {
+          "w": "up",
+          "t": 37.4
+        },
+        {
+          "w": "or",
+          "t": 37.7
+        },
+        {
+          "w": "down.",
+          "t": 38.0
+        }
+      ]
+    },
+    {
+      "text": "Just us.",
+      "start": 38.935,
+      "end": 40.364,
+      "words": [
+        {
+          "w": "Just",
+          "t": 38.935
+        },
+        {
+          "w": "us.",
+          "t": 39.235
+        }
+      ]
+    },
+    {
+      "text": "Together.",
+      "start": 40.364,
+      "end": 41.718,
+      "words": [
+        {
+          "w": "Together.",
+          "t": 40.364
+        }
+      ]
+    }
+  ]
+}
