@@ -1,0 +1,433 @@
+{
+  "voice": "male",
+  "total": 41.04,
+  "lines": [
+    {
+      "text": "What if humans could fly.",
+      "start": 0.0,
+      "end": 2.159,
+      "words": [
+        {
+          "w": "What",
+          "t": 0.0
+        },
+        {
+          "w": "if",
+          "t": 0.3
+        },
+        {
+          "w": "humans",
+          "t": 0.6
+        },
+        {
+          "w": "could",
+          "t": 0.9
+        },
+        {
+          "w": "fly.",
+          "t": 1.2
+        }
+      ]
+    },
+    {
+      "text": "Not with machines.",
+      "start": 2.159,
+      "end": 4.108,
+      "words": [
+        {
+          "w": "Not",
+          "t": 2.159
+        },
+        {
+          "w": "with",
+          "t": 2.459
+        },
+        {
+          "w": "machines.",
+          "t": 2.759
+        }
+      ]
+    },
+    {
+      "text": "With our own wings.",
+      "start": 4.108,
+      "end": 5.978,
+      "words": [
+        {
+          "w": "With",
+          "t": 4.108
+        },
+        {
+          "w": "our",
+          "t": 4.408
+        },
+        {
+          "w": "own",
+          "t": 4.708
+        },
+        {
+          "w": "wings.",
+          "t": 5.008
+        }
+      ]
+    },
+    {
+      "text": "Imagine waking up",
+      "start": 5.978,
+      "end": 8.002,
+      "words": [
+        {
+          "w": "Imagine",
+          "t": 5.978
+        },
+        {
+          "w": "waking",
+          "t": 6.278
+        },
+        {
+          "w": "up",
+          "t": 6.578
+        }
+      ]
+    },
+    {
+      "text": "and just... floating.",
+      "start": 8.002,
+      "end": 10.351,
+      "words": [
+        {
+          "w": "and",
+          "t": 8.002
+        },
+        {
+          "w": "just...",
+          "t": 8.302
+        },
+        {
+          "w": "floating.",
+          "t": 8.602
+        }
+      ]
+    },
+    {
+      "text": "No gravity pulling down.",
+      "start": 10.351,
+      "end": 12.7,
+      "words": [
+        {
+          "w": "No",
+          "t": 10.351
+        },
+        {
+          "w": "gravity",
+          "t": 10.651
+        },
+        {
+          "w": "pulling",
+          "t": 10.951
+        },
+        {
+          "w": "down.",
+          "t": 11.251
+        }
+      ]
+    },
+    {
+      "text": "We would soar above cities.",
+      "start": 12.7,
+      "end": 15.024,
+      "words": [
+        {
+          "w": "We",
+          "t": 12.7
+        },
+        {
+          "w": "would",
+          "t": 13.0
+        },
+        {
+          "w": "soar",
+          "t": 13.3
+        },
+        {
+          "w": "above",
+          "t": 13.6
+        },
+        {
+          "w": "cities.",
+          "t": 13.9
+        }
+      ]
+    },
+    {
+      "text": "Above mountains.",
+      "start": 15.024,
+      "end": 16.819,
+      "words": [
+        {
+          "w": "Above",
+          "t": 15.024
+        },
+        {
+          "w": "mountains.",
+          "t": 15.324
+        }
+      ]
+    },
+    {
+      "text": "Above clouds.",
+      "start": 16.819,
+      "end": 18.588,
+      "words": [
+        {
+          "w": "Above",
+          "t": 16.819
+        },
+        {
+          "w": "clouds.",
+          "t": 17.119
+        }
+      ]
+    },
+    {
+      "text": "The world would look",
+      "start": 18.588,
+      "end": 20.442,
+      "words": [
+        {
+          "w": "The",
+          "t": 18.588
+        },
+        {
+          "w": "world",
+          "t": 18.888
+        },
+        {
+          "w": "would",
+          "t": 19.188
+        },
+        {
+          "w": "look",
+          "t": 19.488
+        }
+      ]
+    },
+    {
+      "text": "so small from up there.",
+      "start": 20.442,
+      "end": 22.691,
+      "words": [
+        {
+          "w": "so",
+          "t": 20.442
+        },
+        {
+          "w": "small",
+          "t": 20.742
+        },
+        {
+          "w": "from",
+          "t": 21.042
+        },
+        {
+          "w": "up",
+          "t": 21.342
+        },
+        {
+          "w": "there.",
+          "t": 21.642
+        }
+      ]
+    },
+    {
+      "text": "We would see borders disappear.",
+      "start": 22.691,
+      "end": 25.22,
+      "words": [
+        {
+          "w": "We",
+          "t": 22.691
+        },
+        {
+          "w": "would",
+          "t": 22.991
+        },
+        {
+          "w": "see",
+          "t": 23.291
+        },
+        {
+          "w": "borders",
+          "t": 23.591
+        },
+        {
+          "w": "disappear.",
+          "t": 23.891
+        }
+      ]
+    },
+    {
+      "text": "We would see how connected",
+      "start": 25.22,
+      "end": 27.37,
+      "words": [
+        {
+          "w": "We",
+          "t": 25.22
+        },
+        {
+          "w": "would",
+          "t": 25.52
+        },
+        {
+          "w": "see",
+          "t": 25.82
+        },
+        {
+          "w": "how",
+          "t": 26.12
+        },
+        {
+          "w": "connected",
+          "t": 26.42
+        }
+      ]
+    },
+    {
+      "text": "everything really is.",
+      "start": 27.37,
+      "end": 29.319,
+      "words": [
+        {
+          "w": "everything",
+          "t": 27.37
+        },
+        {
+          "w": "really",
+          "t": 27.67
+        },
+        {
+          "w": "is.",
+          "t": 27.97
+        }
+      ]
+    },
+    {
+      "text": "Maybe we would finally",
+      "start": 29.319,
+      "end": 31.313,
+      "words": [
+        {
+          "w": "Maybe",
+          "t": 29.319
+        },
+        {
+          "w": "we",
+          "t": 29.619
+        },
+        {
+          "w": "would",
+          "t": 29.919
+        },
+        {
+          "w": "finally",
+          "t": 30.219
+        }
+      ]
+    },
+    {
+      "text": "understand.",
+      "start": 31.313,
+      "end": 32.947,
+      "words": [
+        {
+          "w": "understand.",
+          "t": 31.313
+        }
+      ]
+    },
+    {
+      "text": "We are all one.",
+      "start": 32.947,
+      "end": 34.686,
+      "words": [
+        {
+          "w": "We",
+          "t": 32.947
+        },
+        {
+          "w": "are",
+          "t": 33.247
+        },
+        {
+          "w": "all",
+          "t": 33.547
+        },
+        {
+          "w": "one.",
+          "t": 33.847
+        }
+      ]
+    },
+    {
+      "text": "One sky.",
+      "start": 34.686,
+      "end": 36.151,
+      "words": [
+        {
+          "w": "One",
+          "t": 34.686
+        },
+        {
+          "w": "sky.",
+          "t": 34.986
+        }
+      ]
+    },
+    {
+      "text": "One earth.",
+      "start": 36.151,
+      "end": 37.64,
+      "words": [
+        {
+          "w": "One",
+          "t": 36.151
+        },
+        {
+          "w": "earth.",
+          "t": 36.451
+        }
+      ]
+    },
+    {
+      "text": "One family.",
+      "start": 37.64,
+      "end": 39.259,
+      "words": [
+        {
+          "w": "One",
+          "t": 37.64
+        },
+        {
+          "w": "family.",
+          "t": 37.94
+        }
+      ]
+    },
+    {
+      "text": "Flying together.",
+      "start": 39.259,
+      "end": 41.039,
+      "words": [
+        {
+          "w": "Flying",
+          "t": 39.259
+        },
+        {
+          "w": "together.",
+          "t": 39.559
+        }
+      ]
+    }
+  ]
+}
