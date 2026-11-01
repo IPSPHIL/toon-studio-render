@@ -10,6 +10,7 @@ import {Fly, IS_FPS as FL_FPS, IS_SEC as FL_SEC} from './toon/episodes/Fly';
 import {MindRead, IS_FPS as MR_FPS, IS_SEC as MR_SEC} from './toon/episodes/MindRead';
 import {TimeStop, IS_FPS as TS2_FPS, IS_SEC as TS2_SEC} from './toon/episodes/TimeStop';
 import {TimeTravel, IS_FPS as TT_FPS, IS_SEC as TT_SEC} from './toon/episodes/TimeTravel';
+import {TestImg} from './toon/episodes/TestImg';
 import {SkyTest} from './toon/episodes/SkyTest';
 
 export const Root: React.FC = () => (
@@ -25,5 +26,6 @@ export const Root: React.FC = () => (
     <Composition id="TimeTravel" component={TimeTravel} width={1920} height={1080} fps={TT_FPS} durationInFrames={Math.round(TT_SEC * TT_FPS)} />
     <Composition id="TechStop" component={TechStop} width={1920} height={1080} fps={TS_FPS} durationInFrames={Math.round(TS_SEC * TS_FPS)} />
     <Composition id="SkyTest" component={SkyTest} width={1920} height={1080} fps={30} durationInFrames={30} />
+    <Composition id="TestImg" component={TestImg} width={1920} height={1080} fps={30} durationInFrames={30} />
   </>
 );
