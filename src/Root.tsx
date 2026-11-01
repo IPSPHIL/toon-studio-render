@@ -7,6 +7,7 @@ import {TechStop, IS_FPS as TS_FPS, IS_SEC as TS_SEC} from './toon/episodes/Tech
 import {AnimalTalk, IS_FPS as AT_FPS, IS_SEC as AT_SEC} from './toon/episodes/AnimalTalk';
 import {GravityGone, IS_FPS as GG_FPS, IS_SEC as GG_SEC} from './toon/episodes/GravityGone';
 import {Fly, IS_FPS as FL_FPS, IS_SEC as FL_SEC} from './toon/episodes/Fly';
+import {MindRead, IS_FPS as MR_FPS, IS_SEC as MR_SEC} from './toon/episodes/MindRead';
 import {SkyTest} from './toon/episodes/SkyTest';
 
 export const Root: React.FC = () => (
@@ -17,6 +18,7 @@ export const Root: React.FC = () => (
     <Composition id="AnimalTalk" component={AnimalTalk} width={1920} height={1080} fps={AT_FPS} durationInFrames={Math.round(AT_SEC * AT_FPS)} />
     <Composition id="GravityGone" component={GravityGone} width={1920} height={1080} fps={GG_FPS} durationInFrames={Math.round(GG_SEC * GG_FPS)} />
     <Composition id="Fly" component={Fly} width={1920} height={1080} fps={FL_FPS} durationInFrames={Math.round(FL_SEC * FL_FPS)} />
+    <Composition id="MindRead" component={MindRead} width={1920} height={1080} fps={MR_FPS} durationInFrames={Math.round(MR_SEC * MR_FPS)} />
     <Composition id="TechStop" component={TechStop} width={1920} height={1080} fps={TS_FPS} durationInFrames={Math.round(TS_SEC * TS_FPS)} />
     <Composition id="SkyTest" component={SkyTest} width={1920} height={1080} fps={30} durationInFrames={30} />
   </>
